@@ -1,0 +1,487 @@
+[
+   {
+        "name": "MOVIES 1",
+        "samples": [
+      {
+        "name": "HBO Signature",
+        "logo_uri": "https://static.epg.best/us/HBOSignature.us.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "HBO Hits",
+        "logo_uri": "https://static.epg.best/id/HBOHits.id.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "HBO Family",
+        "logo_uri": "https://static.epg.best/us/HBOFamily.us.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "HBO",
+        "logo_uri": "https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "FOX MOVIES",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "FOX ACTION MOVIES",
+		      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Action.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "FOX FAMILY MOVIES",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Family.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "FOX",
+		    "logo_uri": "https://logos-download.com/wp-content/uploads/2016/02/FOX_logo_orange_Latin_America.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "FX",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fx.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "FOX LIFE",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Life.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "FOX CRIME",
+        "logo_uri": "https://img2.pngio.com/stick-person-dead-png-picture-798860-crime-clipart-svg-fox-crime-png-2000_376.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "PARAMOUNT CHANNEL HD",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "CINEMA WORLD HD",
+		     "logo_uri": "https://d3cl79h6n1fe0x.cloudfront.net/wp-content/uploads/2016/10/28150842/1-cw.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "AXN",
+        "logo_uri": "https://static.epg.best/kr/AXN.kr.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "WARNER TV HD",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/warner-tv.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "CINEMAX",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "BLUE ANT ENTERTAINMENT HD",
+        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "TVN HD",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "TVN MOVIES HD",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvN-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "STAR CHINESE MOVIES HD",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "STAR CHINESE LEGEND HD",
+		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "Hits Movies",
+        "logo_uri": "https://www.hitstv.com/assets/logo-HITSMOVIES.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "Thrill",
+        "logo_uri": "https://i.imgur.com/cPneq0f.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "Celestial Movie",
+        "logo_uri": "https://i.imgur.com/KcCWHbk.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "Celestial Classic Movie",
+        "logo_uri": "https://i.imgur.com/KcCWHbk.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "SonyOne",
+        "logo_uri": "https://pbs.twimg.com/profile_images/1240080611965980672/5g011pTT_400x400.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },
+      {
+        "name": "WAKU-WAKU JAPAN",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/330px-WakuWaku_Japan_logo.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+       },
+       {
+        "name": "HITS",
+        "logo_uri": "https://www.hitstv.com/img/hits-movies-logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      },      
+      {
+        "name": "KIX",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/157_144.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+      }
+    ]
+      }, 
+      {
+          "name": "MOVIES 2",
+          "samples": [
+      {
+        "name": "HBOHD",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
+        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/82603.ts"
+      },
+      {
+        "name": "Star MoviesHD",
+        "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
+        "uri": "http://tyciptv.site:8080/live/test-2ddd5c/43bf/11511.ts"
+      },
+      {
+        "name": "ShowTime HD",
+        "logo_uri": "https://image.flaticon.com/icons/png/512/870/870966.png",
+        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/13008.ts"
+      },
+      {
+         "name": "FLIK",
+         "logo_uri": "https://static.wixstatic.com/media/3dd119_0e9966ff9b7549c5bf761e1f3549ee50~mv2.png",
+         "uri": "http://tvku.live:8888/live/w1ndr4/4qm4L/29592.ts"
+     },
+     {
+        "name": "And FlixHD",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
+        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/45506.ts"
+      },
+      {
+          "name": "And PriveHD",
+          "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
+          "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/49557.ts"
+      },
+      {
+        "name": "Sony PixHD",
+        "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+        "uri": "http://tyciptv.site:8080/live/test-2ddd5c/43bf/49539.ts"
+      },
+      {
+        "name": "Sony Movies",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/3/39/Sony-movie-channel-2017-logo.png",
+        "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/5831.ts"
+      },
+      {
+        "name": "Red By HBO",
+        "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
+        "uri": "http://tvku.live:8888/live/w1ndr4/4qm4L/4832.ts"
+      },
+      {
+        "name": "MNPlusHD",
+        "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
+        "uri": "http://iptvtree.net:8080/F11984/a901188d/192961?play_token=yv9TYAFpbu"
+      },
+      {
+        "name": "MNXHD",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
+        "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/192962.ts"
+      },
+      {
+        "name": "Now MoviesHD",
+        "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
+        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/169118.ts"
+      },
+      {
+        "name": "AKSION HD",
+        "logo_uri": "http://albepg.com/tvlogi/Film%20Aksion.png",
+        "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/16445.ts"
+      },
+      {
+        "name": "TV1000",
+        "logo_uri": "https://www.sostav.ru/app/public/images/news/2014/04/25/TV1000%20new.png",
+        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/42064.ts"
+      },
+      {
+         "name": "STARZ ACTION",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
+         "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/38498.ts"
+      },
+      {
+         "name": "Star Select MoviesHD",
+         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/5/5b/Star_Movies_Select.jpeg",
+         "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
+      },
+      {
+         "name": "CinePlex HD",
+         "logo_uri": "https://www.vrstudios.com/wp-content/uploads/2018/09/Cineplex_logo.svg_.png",
+         "uri": "http://miptvservices.dynu.net:7899/live/6oCjXoqzgv/FmZuetHIs6/110869.ts"
+      },
+      {
+        "name": "ActionMax HD",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Action_max_logo.png",
+        "uri": "http://skylogic.site:8080/live/Vortexalliaz/a9b4be6cd3/2274.ts"
+      },
+      {
+        "name": "X PREMIUM 1",
+        "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png",
+        "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/12457.ts"
+      },
+      {
+        "name": "X PREMIUM 2",
+         "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png",
+        "uri": "http://tyciptv.site:8080/live/test-2ddd5c/43bf/12458.ts"
+      },
+      {
+        "name": "X Sci-Fi HD",
+         "logo_uri": "https://assets.stickpng.com/images/584fc8d66a5ae41a83ddee7f.png",
+        "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/192111.ts"
+      },
+      {
+        "name": "X Thriller HD",
+         "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
+        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/151736.ts"
+      },
+      {
+        "name": "X Action HD",
+         "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Action%20HD.png",
+        "uri": "http://skylogic.site:8080/live/test-086224/TmJ6gQxGTf/12464.ts"
+      },
+      {
+        "name": "Tring Fantasy",
+         "logo_uri": "https://ewsat.com/img/TRING_FANTASY.png",
+        "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/2577.ts"
+      },
+      {
+        "name": "ACTION",
+         "logo_uri": "https://www.tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png",
+        "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/23769.ts"
+      }
+    ]
+      }, 
+      {
+          "name": "HINDI/TAMIL",
+          "samples": [
+      {
+        "name": "And PicsHD",
+        "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
+        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54091"
+      },
+      {
+        "name": "And XplorHD",
+        "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
+        "uri": "http://digimobil.org:7899/live/ion.fronie1-mac/fasttv/303.ts"
+      },
+      {
+        "name": "Zee CinemaHD",
+        "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
+        "uri": "http://51.15.26.209:8080/test-5c0b86/ae78/1350?play_token=6ayJiPYePP&token=ShUNAEFcElxEWQwHCgAFBANRBgZUU1ddDgdWUAIHVgABA1FUA1EFAAMaGEZKTREDAFhpWAUVDwgFBFNOFRcSBkNoDAUQDhJXUAEGVBsVQRIIWFMTWwYDCQIJW1sOW1RPE0cMBRAOElRUDQddGxVBAxlBU0MPVllmUlQVC1QHQ1lfQgkNHhZfCDlcUQlYVwdEWxcHE00VXEpGE1kMQg4NTxNVDBVAVUQDRAIWVgsPUURNF1VeFFlBS08TWUBlN0NPE1IdFVdaQw8JVhZeG00QRE0XX0I+RVBKQkMGA1oHE0ELFVVDHhZdBx5nVwtXVwYFFVxZXxIVDxsHE09AWg0PCkVYFz5CXVREXBoHVg0MUUQc"
+      },
+      {
+        "name": "Colors CinePlexHD",
+        "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png",
+        "uri": "http://103.194.169.115:25461/2audi4.14/Richtlijn1/54037?token=GRdRWUpbQV9BBwtUBVNbAFEDAFUBAlJSVlNcAgECDFcDBgkOXQUABFoRFEQQFxAGVQxnD1YVCVQHU1cFHEFNQgdHZlFdEVlHUgoNVVdUVUEYQ0wPX1IRWwJVVAIJUAwEVgMVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+      },
+      {
+        "name": "AndTV",
+        "logo_uri": "https://static.epg.best/in/AndTV.in.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ZEE CINEMA",
+        "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ZEE TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ZING",
+        "logo_uri": "https://static.epg.best/in/Zing.in.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "YUPP THIRAI HD",
+	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "COLORS TAMIL HD",
+	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-tamil.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "POLIMER",
+	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Polimer.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "JAYA MAX",
+	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/jaya-max.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "SONY MAX",
+	      "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "UTV MOVIES HD",
+	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "COLORS CINEPLEX",
+	       "logo_uri": "https://sc.dish.com/shared/images/station-logos/CLRSC.PNG",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "COLORS",
+	       "logo_uri": "https://static.epg.best/in/Colors.in.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "SONY SAB",
+	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {        
+	      "name": "SONY SET",
+	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+        "name": "ZEE BIOSKOP",
+        "logo_uri": "https://i.postimg.cc/V6xWZTgY/zeebioskop.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Zing",
+        "logo_uri": "https://static.epg.best/in/Zing.in.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "BOLLYONE HD",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_ABO_BollyOne.png",
+        "uri": "http://digimobil.org:7899/live/ion.fronie1-mac/fasttv/110176.ts"
+      },
+      {
+        "name": "D2H Movies HD",
+          "logo_uri": "https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active_041218121146.png",
+        "uri": "http://digimobil.org:7899/live/eroniko@hotmail.com/ajca5pQrtY/54226.ts"
+      }
+    ]
+  }
+]
