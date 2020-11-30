@@ -353,7 +353,7 @@
       {
         "name": "Zee CinemaHD",
         "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-        "uri": "http://51.15.26.209:8080/test-5c0b86/ae78/1350?play_token=6ayJiPYePP&token=ShUNAEFcElxEWQwHCgAFBANRBgZUU1ddDgdWUAIHVgABA1FUA1EFAAMaGEZKTREDAFhpWAUVDwgFBFNOFRcSBkNoDAUQDhJXUAEGVBsVQRIIWFMTWwYDCQIJW1sOW1RPE0cMBRAOElRUDQddGxVBAxlBU0MPVllmUlQVC1QHQ1lfQgkNHhZfCDlcUQlYVwdEWxcHE00VXEpGE1kMQg4NTxNVDBVAVUQDRAIWVgsPUURNF1VeFFlBS08TWUBlN0NPE1IdFVdaQw8JVhZeG00QRE0XX0I+RVBKQkMGA1oHE0ELFVVDHhZdBx5nVwtXVwYFFVxZXxIVDxsHE09AWg0PCkVYFz5CXVREXBoHVg0MUUQc"
+        "uri": "http://iptv-line.com:7899/live/prabhatkr3/yQnmfPEJgX/54047.ts"
       },
       {
         "name": "Colors CinePlexHD",
@@ -480,7 +480,7 @@
       {
         "name": "D2H Movies HD",
           "logo_uri": "https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active_041218121146.png",
-        "uri": "http://digimobil.org:7899/live/eroniko@hotmail.com/ajca5pQrtY/54226.ts"
+        "uri": "http://iptv-line.com:7899/live/prabhatkr3/yQnmfPEJgX/54226.ts"
       }
     ]
   }
