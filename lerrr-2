@@ -278,12 +278,7 @@
       {
         "name": "Now MoviesHD",
         "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
-        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/169118?play_token=ctm2RRfti9"
-      },
-      {
-        "name": "TV1000",
-        "logo_uri": "https://www.sostav.ru/app/public/images/news/2014/04/25/TV1000%20new.png",
-        "uri": "http://skylogic.site:8080/live/82a28920/ce46da4c/12787.ts"
+        "uri": "http://iptvtree.net:8080/live/test-2ddd5c/43bf/169118.ts"
       },
       {
         "name": "Clubbing TV",
@@ -300,12 +295,12 @@
       {
         "name": "ActionMax HD",
         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Action_Max_logo.png",
-        "uri": "http://185.59.222.189:25461/8SFvFs5CfZ/XLadeIwWOv/110147?token=GRdRWUpbQV9BVVwCAVtbUwADC1ILU1FZUAACAQEHAQVTUQAOAQdbAQIRFEQQFxAGVQxnD1YVCVACU1UGB08aRBFQS2dQV0FfQQIJUVRSU1EWTRoSW1pWQwlSUgIGUAgIWwQPFBtDCgFBCRpUW1NaWhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFcDWA5EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFsEWQhETw=="
+        "uri": "http://iptvtree.net:8080/live/Mouse/654cac3f/2274.ts"
       },
       {
         "name": "Star Select MoviesHD",
         "logo_uri": "https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",
-        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54175"
+        "uri": "http://iptv-line.com:7899/live/vgMD2BKXlG/xfusjh/54026.ts"
       },
       {
         "name": "EPIX HITS",
@@ -388,7 +383,7 @@
       {
         "name": "And PicsHD",
         "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-        "uri": "http://iptv-line.com:7899/kanu1225.ak.ak1-mac/bk5V3m1MXz/54091"
+        "uri": "http://iptvtree.net:8080/live/Mouse/654cac3f/16958.ts"
       },
       {
         "name": "And XplorHD",
@@ -398,7 +393,7 @@
       {
         "name": "Zee CinemaHD",
         "logo_uri":"https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",
-        "uri": "http://iptv-line.com:7899/12EZkFPQ2p/VLZ6c5U7sf/54228"
+        "uri": "http://iptv-line.com:7899/live/vgMD2BKXlG/xfusjh/54228.ts"
       },
       {
         "name": "COLORS",
@@ -410,7 +405,7 @@
       {
         "name": "COLORS HD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
-        "uri": "http://iptv-line.com:7899/12EZkFPQ2p/VLZ6c5U7sf/54181"
+        "uri": "http://iptv-line.com:7899/live/vgMD2BKXlG/xfusjh/54181.ts"
       },
       {
         "name": "YUPP THIRAI HD",
@@ -490,12 +485,12 @@
       {
         "name": "BOLLYONE HD",
         "logo_uri": "https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png",
-        "uri": "http://iptv-line.com:7899/live/8SFvFs5CfZ/XLadeIwWOv/110176.ts"
+        "uri": "http://iptvtree.net:8080/live/Mouse/654cac3f/157470.ts"
       },
       {
         "name": "D2H Movies HD",
          "logo_uri": "https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active_041218121146.png",
-        "uri": "http://iptv-line.com:7899/live/8SFvFs5CfZ/XLadeIwWOv/54226.ts"
+        "uri": "http://iptv-line.com:7899/live/vgMD2BKXlG/xfusjh/54226.ts"
       }
    ]
      },
