@@ -126,7 +126,7 @@
       {
         "name": "ASTRO WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8"
+        "uri": "http://tyciptv.site:8080/live/mariconigliar0/30d5055e/157492.ts"
       },
       {
         "name": "ASTRO RIA",
@@ -845,7 +845,7 @@
       {
               "name": "ASTRO ARENA",
        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-       "uri": "http://skylogic.site:8080/live/test-086224/TmJ6gQxGTf/157485.ts"
+       "uri": "http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8"
       }
     ]
   }	
