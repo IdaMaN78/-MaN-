@@ -139,7 +139,7 @@
       {
         "name": "CITRA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://185.59.222.189:25461/patrickbizz1/trFPP9aZ/110270?token=GRdRWUpbQV9BBQ0EU1sGWgYACFRUVlBYB1pWBQlSW1BVVw0MWFcAXVcRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIMVFRVVVYWTRoSW1pWQwlSUgIGUQsDUwUJFBtDCgFBCRpUUVNVUBZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFAEVgxEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFSR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFUEVwpETw=="
+        "uri": "http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8"
       },
       {
         "name": "CITRA LINK 2",
@@ -184,7 +184,7 @@
       {
         "name": "BOO LINK1",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://mantul.biz.id:8888/live/jojo/123456/5313.ts"
+        "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
       },
       {
         "name": "BOO LINK 2",
