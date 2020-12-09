@@ -468,6 +468,26 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
       },
       {
+        "name": "Star MoviesHD",
+        "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
+        "uri": "http://iptvtree.net:8080/live/44444/4506fd18/11511.ts"
+      },
+      {
+         "name": "FLIK",
+         "logo_uri": "https://static.wixstatic.com/media/3dd119_0e9966ff9b7549c5bf761e1f3549ee50~mv2.png",
+         "uri": "http://tvku.live:8888/live/w1ndr4/4qm4L/29592.ts"
+     },
+     {
+        "name": "And FlixHD",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
+        "uri": "http://iptvtree.net:8080/live/44444/4506fd18/45506.ts"
+      },
+      {
+        "name": "Sony PixHD",
+        "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+        "uri": "http://iptvtree.net:8080/live/44444/4506fd18/49539.ts"
+      },
+      {
           "name": "RED BY HBO",
           "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
           "uri": "http://fdtvapps.xyz/channel/red.m3u8"
