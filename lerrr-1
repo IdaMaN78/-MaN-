@@ -104,7 +104,7 @@
       {
         "name": "CERIA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://iptv-line.com:7899/live/7FpGcumfwW/7x9qBrGwRw/110228.ts"
+        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
       },
       {
         "name": "CERIA LINK 2",
@@ -114,7 +114,7 @@
       {
         "name": "OASIS LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://tyciptv.site:8080/live/mariconigliar0/30d5055e/157489.ts"
+        "uri": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8"
       },
       {
         "name": "OASIS LINK 2",
@@ -134,7 +134,7 @@
       {
         "name": "RIA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://iptv-line.com:7899/live/7FpGcumfwW/7x9qBrGwRw/110155.ts"
+        "uri": "http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8"
       },
       {
         "name": "RIA LINK 2",
@@ -159,7 +159,7 @@
       {
         "name": "PRIMA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://iptv-line.com:7899/live/7FpGcumfwW/7x9qBrGwRw/110156.ts"
+        "uri": "http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8"
       },
       {
         "name": "RANIA LINK 1",
@@ -189,7 +189,7 @@
       {
         "name": "BOO LINK 2",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://mantul.biz.id:8888/leonard1/leonard1/5313?token=GhpQU0QMRAlBD1BaV1UFAAcKBVwFUVUFVwcFBABdAQpZXA4HVFNUBloVT0BGEhZTUVQ7DVZAWQFbCwMaFU0XVxNnUVYVXkQGUQJaQBlEEF9dXEZeA1RTAFQEDwEFC0gQEVFcEA1GXwNQBUFOFwMcQlVLCgVePQdQFFtUUxUCCkcNVBQQWAo5VwZaAgxRRF4UABtIRlsRExdYXEJaWxRGUAhMSlNDAUQJQQZUWwdESBRTVhEKRhAaF1gQem8VFEZXGUxdXEQNCV1BDUEWRkRIFFlKOxZXERdHB1NaU0UaXhBRGhQQWgUebABYDQxQBRBfX1cXRghAUhdOEFpZWVEQXRNnSFtTRlwRUAZRVQJEGQ=="
+        "uri": ""
       },
       {
         "name": "TAYANGAN HEBAT LINK 1",
