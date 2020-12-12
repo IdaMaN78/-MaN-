@@ -388,12 +388,12 @@
       {
         "name": "And XplorHD",
         "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-        "uri": "http://skylogic.site:8080/live/Vortexalliaz/a9b4be6cd3/197953.ts"
+        "uri": "http://e8.oknirvana.club:8880/live/Twgr8vTvtk/vptsJ8rxwY/55228.ts"
       },
       {
-        "name": "Zee CinemaHD",
-        "logo_uri":"https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",
-        "uri": "http://iptv-line.com:7899/live/vgMD2BKXlG/xfusjh/54228.ts"
+          "name": "Sony Wah",
+          "logo_uri":"https://s3.amazonaws.com/zaubatrademarks/4e5aa05a-68c5-4424-b8c0-82e9593b6e18.png",
+          "uri": "http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/bc67b5d958603b8.m3u8"
       },
       {
         "name": "COLORS",
@@ -403,9 +403,9 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
       },
       {
-        "name": "COLORS HD",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
-        "uri": "http://iptv-line.com:7899/live/vgMD2BKXlG/xfusjh/54181.ts"
+        "name": "Zee5",
+        "logo_uri": "https://mumbai.ad-tech.com/sites/default/files/ZEE5_05112019.png",
+        "uri": "http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/2e8972c0015d6a5.m3u8"
       },
       {
         "name": "YUPP THIRAI HD",
