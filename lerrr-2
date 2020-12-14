@@ -222,7 +222,6 @@
       {
         "name": "HBOHD",
         "logo_uri": "https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
         "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/1930.ts"
       },
       {
@@ -298,9 +297,9 @@
         "uri": "http://iptvtree.net:8080/live/Mouse/654cac3f/2274.ts"
       },
       {
-        "name": "Star Select MoviesHD",
-        "logo_uri": "https://www.rdcablenet.com/wp-content/uploads/2019/01/STAR-MOVIES-SELECT-HD.png",
-        "uri": "http://iptv-line.com:7899/live/vgMD2BKXlG/xfusjh/54026.ts"
+         "name": "X Gold 4 HD",
+         "logo_uri": "https://i.imgur.com/pSEV21P.png",
+         "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30460.ts"
       },
       {
         "name": "EPIX HITS",
@@ -318,7 +317,7 @@
         "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30419.ts"
       },
       {
-        "name": "X Gold HD",
+        "name": "X Gold 1 HD",
          "logo_uri": "https://i.imgur.com/pSEV21P.png",
         "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30537.ts"
       },
