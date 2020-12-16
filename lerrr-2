@@ -392,7 +392,7 @@
       {
           "name": "Sony Wah",
           "logo_uri":"https://s3.amazonaws.com/zaubatrademarks/4e5aa05a-68c5-4424-b8c0-82e9593b6e18.png",
-          "uri": "http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/bc67b5d958603b8.m3u8"
+          "uri": "http://iptvtree.net:8080/live/14709/873066f7/165801.ts"
       },
       {
         "name": "COLORS",
@@ -485,11 +485,6 @@
         "name": "BOLLYONE HD",
         "logo_uri": "https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png",
         "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/71037.ts"
-      },
-      {
-        "name": "D2H Movies HD",
-         "logo_uri": "https://d2h-wsc-media.s3.amazonaws.com/uploads/navigation/201804/movies-active_041218121146.png",
-        "uri": "http://iptv-line.com:7899/live/vgMD2BKXlG/nrymhn/54226.ts"
       }
    ]
      },
