@@ -338,35 +338,35 @@
         "samples": [
       {
         "name": "CHANNEL 5",
-        "logo_uri": "https://www.mewatch.sg/blob/5180636/d78ad3da1a4fc3a73325fb4f9ce434b5/channel5-png-data.png",
+        "logo_uri": "https://pngimage.net/wp-content/uploads/2018/06/mediacorp-channel-8-logo-png.png",
         "uri": "https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3-ap.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNSDVGOGhmbmZmeW1DV0VtVDFSdGNwdzcwLW5sY09MbF9Mdl91V3hvUUNRZGlaTF9RNzZSQi1HRGtERE93aTRJYXdKQ2d0WWpGLVR4dUx1ZVJJbWRhSU5acnVUSXBZTzc2Tl9kSmtBdWNrNWx0LVQwMUZLZG9YeExvdnhyanJ5am5SSm1KTGc0dXJvN0tSVkltWGx0cEhsc0daZ19oNWU5U056dU1adGRNdmRqSjF3dkNyUGItaGpGeFN5S0t1a3dDeXV6THFtSzgxTHNka0NWd2FXbkRfZkU4OG95Y29fRXpGOUdvYS1qZGdEdTVNci0xUDkwZjc4VThpTE1jZVJ4VFd6LW9wS3p0elVCWFRwTUZVSEZsV0pTT2tnS1g3djZWQUhXbGUxWjVnejY3U25lZTQyUnl1eXlGdjl6VnRoQ2c9PSZjb250ZXh0VHlwZT1ub25lJmlkPTEwOTM4MTUwIiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jaDVfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTUg1RjhoZm5mZnltQ1dFbVQxUnRjcHc3MC1ubGNPTGxfTHZfdVd4b1FDUWRpWkxfUTc2UkItR0RrRERPd2k0SWF3SkNndFlqRi1UeHVMdWVSSW1kYUlOWnJ1VElwWU83Nk5fZEprQXVjazVsdC1UMDFGS2RvWHhMb3Z4cmpyeWpuUkptSkxnNHVybzdLUlZJbVhsdHBIbHNHWmdfaDVlOVNOenVNWnRkTXZkakoxd3ZDclBiLWhqRnhTeUtLdWt3Q3l1ekxxbUs4MUxzZGtDVndhV25EX2ZFODhveWNvX0V6RjlHb2EtamRnRHU1TXItMVA5MGY3OFU4aUxNY2VSeFRXei1vcEt6dHpVQlhUcE1GVUhGbFdKU09rZ0tYN3Y2VkFIV2xlMVo1Z3o2N1NuZWU0MlJ5dXl5RnY5elZ0aENnPT0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=uqfPysj4nlmgs2iukwZYlcQrDyo%3D"
       },	
       {
         "name": "CHANNEL 8",
-        "logo_uri": "https://www.mewatch.sg/blob/5180638/3029194b411dfe5878aea9cc7a9dd974/channel8-png-data.png",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ch_8_2016.svg/1200px-Ch_8_2016.svg.png",
         "uri": "https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D"
       },	  
       {
         "name": "CHANNEL U",
-        "logo_uri": "https://www.mewatch.sg/blob/5180640/ae1148eeed4d26cd768cb943be2ca811/channelu-png-data.png",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png",
         "uri": "https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D"
       },
       {
         "name": "SURIA",
-        "logo_uri": "https://www.mewatch.sg/blob/5180646/b04cd6919683462e1b8149b153d7a73e/suria-png-data.png",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/b/ba/Mediacorp_Suria_logo.jpg",
         "uri": "https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3-ap.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFYllVV2Z3bVRwSlJMLWpQNk1ERG0xVlg5X2czekppRkdSZmZCc2ZhMEdLOFEzM2FVT0NKd2t1R1d6eV9CMUw4ancxT1ZFVDI5bTVzNHV1dmdNcVlsVEVHUUVPWXFYcFdNUGRicVQ2V2RwRXU1UjJCRUN3QXVXNnBDSnAyZGdHOGJrTndORHR0RHA1OXJxb0RiRXVqS2dZeVlhVFlrVE9QSkR3cGJDN2dhcWRwdnpCckdDRVpxLWtSeFlWNWZTNVdoUzkxWkNBS1c5elduTUlUY1laQ0FnUG1WZEFOOHYxYVc3M3lMSWNVWHp4Q3hpLUZLRVpNaVJXVl8xUXdySS04eFNvOUNyZE9rVk1KSnRLVG9xb0pPb2Z5V0dXWmRXX3pzOE5uUmo2VWNWaUlJaVlNNkRoVGs0QnhUMDFtSi1uNjVsR0NSQ3Y5TkFuR0ZVX3EzbVJjUTg9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRWJZVVdmd21UcEpSTC1qUDZNRERtMVZYOV9nM3pKaUZHUmZmQnNmYTBHSzhRMzNhVU9DSndrdUdXenlfQjFMOGp3MU9WRVQyOW01czR1dXZnTXFZbFRFR1FFT1lxWHBXTVBkYnFUNldkcEV1NVIyQkVDd0F1VzZwQ0pwMmRnRzhia053TkR0dERwNTlycW9EYkV1aktnWXlZYVRZa1RPUEpEd3BiQzdnYXFkcHZ6QnJHQ0VacS1rUnhZVjVmUzVXaFM5MVpDQUtXOXpXbk1JVGNZWkNBZ1BtVmRBTjh2MWFXNzN5TEljVVh6eEN4aS1GS0VaTWlSV1ZfMVF3ckktOHhTbzlDcmRPa1ZNSkp0S1RvcW9KT29meVdHV1pkV196czhOblJqNlVjVmlJSWlZTTZEaFRrNEJ4VDAxbUotbjY1bEdDUkN2OU5BbkdGVV9xM21SY1E4PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=KpC6yf47gaMpMOJ9n%2fkAtqBibp8%3d"
        },
        {
         "name": "VASANTHAM",
-        "logo_uri": "https://www.mewatch.sg/blob/5180648/6557221f6e72e6b9021e33e6a3e0600d/vasantham-png-data.png",
+        "logo_uri": "https://www.mastermaths.com.sg/wp-content/uploads/2019/05/Vasantham-Logo.jpg",
         "uri": "https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D"
