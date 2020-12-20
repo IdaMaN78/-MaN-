@@ -184,7 +184,7 @@
       },
       {
         "name": "JAYA MAX",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/jaya-max.png",
+		"logo_uri": "https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-max-black.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3"
