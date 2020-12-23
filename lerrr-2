@@ -605,6 +605,16 @@
             "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
          },
          {
+             "name": "Premier Sports HD",
+             "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
+             "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/28934.ts"
+         },
+         {
+             "name": "Premier Sports 2 HD",
+             "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
+             "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/28915.ts"
+         },
+         {
               "name": "ASTRO ARENA",
               "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
               "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/71102.ts"
