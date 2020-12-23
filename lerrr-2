@@ -571,26 +571,26 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
       },
       {
-            "name": "ASTRO SUPERSPORTS 1",
+          "name": "ASTRO SUPERSPORTS 1",
+          "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
+          "uri": "http://vp2p2s.my6868.cc/20414/MaN-ipTV.m3u8.ts"
+       },
+       {
+            "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/59220.ts"
-          },
-          {
-                 "name": "ASTRO SUPERSPORTS 2",
+            "uri": "http://vp2p2s.my6868.cc/20415/MaN-ipTV.m3u8.ts"
+        },
+        {
+            "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/59219.ts"
-          },
-          {
-                 "name": "ASTRO SUPERSPORTS 3",
+            "uri": "http://vp2p2s.my6868.cc/20416/MaN-ipTV.m3u8.ts"
+        },
+        {
+            "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/59218.ts"
-          },
-          {
-                  "name": "ASTRO SUPERSPORTS 4",
-            "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/59217.ts"
-          },
-          {
+            "uri": "http://vp2p2s.my6868.cc/20417/MaN-ipTV.m3u8.ts"
+        },
+        {
             "name": "START SPORTS SELECT 1",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
             "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/55340.ts"
