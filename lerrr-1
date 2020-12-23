@@ -434,7 +434,7 @@
       },
       {
         "name": "Disney Channel",
-        "logo_uri": "https://static.epg.best/es/DisneyChannel.es.png",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
@@ -453,7 +453,7 @@
       },
       {
         "name": "Kids TV",
-        "logo_uri": "https://i.imgur.com/UVq6IyP.png",
+        "logo_uri": "https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
