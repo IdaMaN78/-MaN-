@@ -591,6 +591,20 @@
             "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/59217.ts"
           },
           {
+            "name": "BEIN SPORTS 1",
+            "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
+             "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
+            "drm_scheme": "widevine",
+            "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+        },
+        {
+            "name": "BEIN SPORTS 2",
+            "logo_uri": "https://s4.postimg.cc/m171drj19/bein-sports-400.png",
+            "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
+            "drm_scheme": "widevine",
+            "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+         },
+         {
               "name": "ASTRO ARENA",
               "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
               "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/71102.ts"
