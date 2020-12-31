@@ -24,6 +24,11 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
       },
       {
+         "name": "HBO(backup)",
+         "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
+         "uri": "http://me.zichannels.my.id/ch/hbo.m3u8.ts"
+      },
+      {
         "name": "HBO",
         "logo_uri": "https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
@@ -106,6 +111,11 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
+      },
+      {
+         "name": "CINEMAX(backup)",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png",
+         "uri": "http://me.zichannels.my.id/ch/max.m3u8.ts"
       },
       {
         "name": "CINEMAX",
