@@ -33,7 +33,7 @@
       {
          "name": "HBO(backup)",
          "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
-         "uri": "http://me.zichannels.my.id/ch/hbo.m3u8.ts"
+         "uri": "http://me.zichannels.my.id/ch/hbo.m3u8"
       },
       {
         "name": "FOX MOVIES",
@@ -66,7 +66,7 @@
       {
          "name": "CINEMAX(backup)",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png",
-         "uri": "http://me.zichannels.my.id/ch/max.m3u8.ts"
+         "uri": "http://me.zichannels.my.id/ch/max.m3u8"
       },
       {
         "name": "STAR CHINESE MOVIES HD",
