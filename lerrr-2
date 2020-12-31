@@ -31,6 +31,11 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
       },
       {
+         "name": "HBO(backup)",
+         "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
+         "uri": "http://me.zichannels.my.id/ch/hbo.m3u8.ts"
+      },
+      {
         "name": "FOX MOVIES",
 		     "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
