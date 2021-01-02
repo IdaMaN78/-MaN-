@@ -372,9 +372,50 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3-ap.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBWWJRcVVYWjlSd1UyQkZfQXB0cEpLSWlXcVZFRUg3bjRBb2g4c0U5enBIWDZWZUUwVEMxMkdfSWxQb2xwNWtDVm51WFVHWndmd21pZzAxMFVwZ0twdXpoRGpuYWxjTlRMUVRhX2tSQ2dTWUk2a3hzbUgtZUFqZlB4NEZSY2RBakFwUE93TGVNM05GUGhBV19tc3FIbDVzbWpSUnk1amZma0MzaWkzUHpEVS1jS0s1Y1V3dGdDLXVKQ3M5bGdleXBZWEZvWExtNzJndmVwZm93Zk5TWUNJaFVBMlo4czh5cGktNkc5VThid2V6Q3E1Ym51LWdoUzZiUFlBOG5vWmoxVVZJQllDdlhxdnhSLUdwalIyUFlwbnFpei1kek9WOTRIcXBVVnhoZ3FZd19qRWs2NUJyQlZHMTdYbzE1TG1ZYUc3X0VlM0FtRGVCbmd1eE5LblUwNzA9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwNyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkFZYlFxVVhaOVJ3VTJCRl9BcHRwSktJaVdxVkVFSDduNEFvaDhzRTl6cEhYNlZlRTBUQzEyR19JbFBvbHA1a0NWbnVYVUdad2Z3bWlnMDEwVXBnS3B1emhEam5hbGNOVExRVGFfa1JDZ1NZSTZreHNtSC1lQWpmUHg0RlJjZEFqQXBQT3dMZU0zTkZQaEFXX21zcUhsNXNtalJSeTVqZmZrQzNpaTNQekRVLWNLSzVjVXd0Z0MtdUpDczlsZ2V5cFlYRm9YTG03Mmd2ZXBmb3dmTlNZQ0loVUEyWjhzOHlwaS02RzlVOGJ3ZXpDcTVibnUtZ2hTNmJQWUE4bm9aajFVVklCWUN2WHF2eFItR3BqUjJQWXBucWl6LWR6T1Y5NEhxcFVWeGhncVl3X2pFazY1QnJCVkcxN1hvMTVMbVlhRzdfRWUzQW1EZUJuZ3V4TktuVTA3MD0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=Ayk5qUipZtioarZyJYi%2bGzojO6Y%3d&sessionId=77e32043-f452-5e89-885c-82e56b1cbcc6:1fef83c2-b941-1b68-a630-c7410fa6921d&clientTag=html5:v1.2.1&referrer=aHR0cHM6Ly93d3cubWV3YXRjaC5zZy9jaGFubmVscy92YXNhbnRoYW0vOTcwOTY="
        }
-     ]  
-       },
-       {
+    ]
+      },
+      {
+         "name": "MTV",
+         "samples": [
+      {
+        "name": "Channel [V]",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MTV ASIA HD",
+        "logo_uri": "https://static.wixstatic.com/media/366666_3259ca715ade4fd2867292c8b1aad0d2~mv2.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=OTE0ZmFiNmItNmNkYi0zNzZkLWEyYzctMzM0YTc3MWJjZDI4"
+      },
+      {
+        "name": "MUSIC TV",
+        "logo_uri": "https://www.mncchannels.com/files/logo/1579059453_logo_music%20tv.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
+      },
+      {
+        "name": "KARAOKE CHANNEL",
+        "logo_uri": "https://surveymonkey-assets.s3.amazonaws.com/survey/155452577/321c2f75-b60c-43e8-bcaf-6a15b67c7179.png",
+        "uri": "http://MaN@edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8"
+      },
+      {
+        "name": "MALEO",
+        "logo_uri": "https://ninmedia.tv/wp-content/uploads/2018/10/Ch-Maleo-2-Green-250x150px.png",
+        "uri": "http://MaN@stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8"
+      },
+      {
+        "name": "POP MUZIK",
+        "logo_uri": "https://ninmedia.tv/wp-content/uploads/2018/11/Ch-POP-MUSIK-Channel-logo-FINAL-01-250px.png",
+        "uri": "http://MaN@stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8"
+      }
+   ]
+      },
+      {
          "name": "KIDS",
          "samples": [      
      {
