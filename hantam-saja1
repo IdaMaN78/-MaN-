@@ -899,6 +899,27 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
      },
      {
+          "name": "SETI",
+          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d9/LOGO_SETI.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3"
+      },
+      {
+         "name": "STAR CHINESE CHANNEL HD",
+         "logo_uri": "https://i.pinimg.com/originals/b5/1d/a8/b51da8c77756b176cc3dee99d86205fa.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3"
+      },
+      {
+         "name": "NOW JELLI HD",
+         "logo_uri": "https://www.nowtv.now.com/media/logo/108-wbg-e.png",
+         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
+         "drm_scheme": "widevine",
+         "drm_license_url": "http://1.9.58.113:8063?deviceId=ODRjYzg4NTgtOTM0OS0zY2VkLWJjMTYtYWI1OTU4MzRiNmY3"
+     },
+     {
           "name": "TVN MOVIES HD",
           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/274_144.png",
           "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
