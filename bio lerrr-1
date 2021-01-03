@@ -365,7 +365,7 @@
       {
         "name": "Zee CinemaHD",
         "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-        "uri": "http://skylogic.site:8080/live/f653192f/Ms3FtoRU2B/1350.ts"
+        "uri": "https://MaN@y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8"
       },
       {
         "name": "AndTV",
@@ -480,6 +480,11 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NGY2OWI5ODktODU2MC0zNzMzLWI3ODAtZGVlZDU2NDJjZTgw"
       },
       {
+        "name": "Sony Wah",
+          "logo_uri": "https://s3.amazonaws.com/zaubatrademarks/4e5aa05a-68c5-4424-b8c0-82e9593b6e18.png",
+        "uri": "http://iptvtree.net:8080/live/14709/873066f7/165801.ts"
+      },
+      {
         "name": "ZEE BIOSKOP",
         "logo_uri": "https://i.postimg.cc/V6xWZTgY/zeebioskop.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
@@ -503,12 +508,7 @@
       {
         "name": "BOLLYONE HD",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_ABO_BollyOne.png",
-        "uri": "http://iptvtree.net:8080/live/44444/kDyvRRPCBE/157470.ts"
-      },
-      {
-        "name": "Sony Wah",
-          "logo_uri": "https://s3.amazonaws.com/zaubatrademarks/4e5aa05a-68c5-4424-b8c0-82e9593b6e18.png",
-        "uri": "http://iptvtree.net:8080/live/14709/873066f7/165801.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/71037.m3u8.ts"
       }
     ]
   }
