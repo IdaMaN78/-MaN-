@@ -293,11 +293,6 @@
         "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/16445.m3u8.ts"
       },
       {
-        "name": "TV1000",
-        "logo_uri": "https://www.sostav.ru/app/public/images/news/2014/04/25/TV1000%20new.png",
-        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/42064.m3u8.ts"
-      },
-      {
          "name": "STARZ ACTION",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
          "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/38498.m3u8.ts"
@@ -335,7 +330,7 @@
       {
         "name": "X Thriller HD",
          "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
-        "uri": "http://ed8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30410.m3u8.ts"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30410.m3u8.ts"
       },
       {
         "name": "X Action HD",
