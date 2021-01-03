@@ -399,7 +399,7 @@
       {
         "name": "And PicsHD",
         "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-        "uri": "http://iptvtree.net:8080/live/Mouse/654cac3f/16958.ts"
+        "uri": "https://MaN@y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/index.m3u8"
       },
       {
         "name": "And XplorHD",
@@ -410,11 +410,6 @@
           "name": "Sony Wah",
           "logo_uri":"https://s3.amazonaws.com/zaubatrademarks/4e5aa05a-68c5-4424-b8c0-82e9593b6e18.png",
           "uri": "http://iptvtree.net:8080/live/14709/873066f7/165801.ts"
-      },
-      {
-        "name": "Zee5",
-        "logo_uri": "https://mumbai.ad-tech.com/sites/default/files/ZEE5_05112019.png",
-        "uri": "http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/India/2e8972c0015d6a5.m3u8"
       },
       {
         "name": "YUPP THIRAI HD",
