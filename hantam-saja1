@@ -395,12 +395,12 @@
     {
          "name": "HBO ZONE (US)",
           "logo_uri": "https://logodix.com/logo/1111252.png",
-          "uri": "http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/3120.ts"
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/3120.m3u8.ts"
     },
     {
           "name": "Epix Hits",
           "logo_uri": "https://sc.dish.com/shared/images/station-logos/EPIXH.png",
-          "uri": "http://iptvtree.net:8080/live/14709/873066f7/6357.ts"
+          "uri": "http://MaN@a2.skynets.tv:8880/live/2285(2)/yYcsWCkv3f/59224.m3u8.ts"
     },
     {
          "name": "STARZ ACTION(US)",
@@ -431,7 +431,7 @@
       {
           "name": "&PRIVE HD",
           "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-          "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/49557?play_token=A86QjOimTH"
+          "uri": "http://MaN@a2.skynets.tv:8880/live/2285(2)/yYcsWCkv3f/55158.m3u8.ts"
      },
      {
            "name": "&FLIX HD",
@@ -466,7 +466,7 @@
         {
             "name": "MNX HD",
             "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
-            "uri": "http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/55281.ts"
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/55281.m3u8.ts"
         },
         {
             "name": "MNPLUS HD",
@@ -486,22 +486,22 @@
      {
          "name": "CINEPLEX HD",
          "logo_uri": "https://www.crolla-lowis.de/uploads/projekte/Cineplex_Relaunch/cp_logos_10.png",
-         "uri": "http://a2.skynets.tv:8880/live/xzyc12m2567/5Ncs2gpUmK/49632.ts"
+         "uri": "http://MaN@a2.skynets.tv:8880/live/xzyc12m2567/5Ncs2gpUmK/49632.m3u8.ts"
      },
      {
           "name": "X TRILLER HD",
 	  "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
-          "uri": "http://iptvtree.net:8080/live/AaKNfqjf4Q/DFZsKGsWpJ/151736.ts"
+          "uri": "http://MaN@a2.skynets.tv:8880/live/2285(2)/yYcsWCkv3f/30410.m3u8.ts"
      },
      {
           "name": "X GOLD 3",
            "logo_uri": "https://i.imgur.com/pSEV21P.png",
-          "uri": "http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/30461.ts"
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/30461.m3u8.ts"
        },
        {
          "name": "X ACTION HD",
           "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Action%20HD.png",
-         "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/12464.ts"
+         "uri": "http://MaN@a2.skynets.tv:8880/live/2285(2)/yYcsWCkv3f/30591.m3u8.ts"
        }
      ]
        },
