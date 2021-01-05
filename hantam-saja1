@@ -511,7 +511,7 @@
       {
          "name": "HBO SIGNATURE(backup)",
          "logo_uri": "https://static.epg.best/us/HBOSignature.us.png",
-         "uri": "http://me.zichannels.my.id/ch/sighd.m3u8"
+         "uri": "https://MaN@sin-azure5.edge.serveraku.net:9443/free/hbo_signature/playlist.m3u8"
       },
       {
         "name": "HBO SIGNATURE",
@@ -523,7 +523,7 @@
       {
          "name": "HBO(backup)",
          "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
-         "uri": "http://fdtvapps.xyz/channel/hbo.m3u8"
+         "uri": "https://MaN@sin-azure5.edge.serveraku.net:9443/free/hbo/playlist.m3u8"
       },
       {
         "name": "HBO",
@@ -535,7 +535,7 @@
       {
          "name": "HBO FAMILY(backup)",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",
-         "uri": "http://fdtvapps.xyz/channel/hbofam.m3u8"
+         "uri": "https://MaN@sin-azure5.edge.serveraku.net:9443/free/hbo_family/playlist.m3u8"
       },
       {
         "name": "HBO FAMILY",
