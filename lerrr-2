@@ -24,6 +24,11 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
       },
       {
+         "name": "HBO FAMILY(backup)",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",
+         "uri": "https://MaN@sin-azure5.edge.serveraku.net:9443/free/hbo_family/playlist.m3u8"
+      },
+      {
         "name": "HBO",
         "logo_uri": "https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
