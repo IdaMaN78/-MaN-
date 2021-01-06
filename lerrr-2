@@ -244,7 +244,7 @@
       {
         "name": "HBOHD",
         "logo_uri": "https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",
-        "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/1930.ts"
+        "uri": ""
       },
       {
         "name": "Star MoviesHD",
@@ -254,7 +254,7 @@
       {
         "name": "ShowTime HD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1200px-Showtime.svg.png",
-        "uri": "http://MaN@a2.skynets.tv:8880/live/wdRe7vnyPu/4W2dqfnPP3/3099.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/12036?play_token=tzefbAbpwa"
       },
       {
          "name": "FLIK",
@@ -264,17 +264,17 @@
      {
         "name": "And FlixHD",
         "logo_uri": "https://static.epg.best/in/AndFlix.in.png",
-        "uri": "http://MaN@a2.skynets.tv:8880/live/wdRe7vnyPu/4W2dqfnPP3/54975.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/45506?play_token=pPijOUcyI3"
       },
       {
         "name": "And PriveHD",
      "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-     "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/55158.ts"
+     "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/49557?play_token=xnAJV6fnIE"
       },
       {
         "name": "Sony PixHD",
         "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-        "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/1933.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/49539?play_token=lOMhRadM4h"
       },
       {
         "name": "Sony Movies",
@@ -294,17 +294,12 @@
       {
         "name": "MNXHD",
         "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png",
-        "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/55281.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/192962?play_token=LWGZvsD8KI"
       },
       {
         "name": "Now MoviesHD",
         "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
         "uri": "http://skylogic.site:8080/live/f653192f/Ms3FtoRU2B/169118.ts"
-      },
-      {
-        "name": "CinePlex HD",
-        "logo_uri": "https://www.vrstudios.com/wp-content/uploads/2018/09/Cineplex_logo.svg_.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/49632.m3u8.ts"
       },
       {
         "name": "ActionMax HD",
@@ -319,37 +314,37 @@
       {
         "name": "X PREMIUM 1",
         "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Premiere%201%20HD.png",
-        "uri": "http://ed8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30374.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/12457?play_token=5t8GSCmFos"
       },
       {
         "name": "X PREMIUM 2",
         "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Premiere%202%20HD.png",
-        "uri": "http://ed8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/30419.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/12458?play_token=9vP1dK1XkX"
       },
       {
         "name": "X Gold 1 HD",
          "logo_uri": "https://i.imgur.com/pSEV21P.png",
-        "uri": "http://ed8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/30462.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/26182?play_token=wzR6t8GPaC"
       },
       {
-         "name": "X Gold 4 HD",
+         "name": "X Gold 3 HD",
          "logo_uri": "https://i.imgur.com/pSEV21P.png",
-         "uri": "http://ed8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/30460.m3u8.ts"
+         "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/2554?play_token=QNOZPV5G5q"
       },
       {
         "name": "X Thriller HD",
          "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
-        "uri": "http://ed8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30410.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/16444?play_token=IW5wOacZ2T"
       },
       {
         "name": "X Action HD",
          "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Action%20HD.png",
-        "uri": "http://ed8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30591.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/12464?play_token=MOY5Pi68cl"
       },
       {
         "name": "ACTION HD",
         "logo_uri": "https://www.tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png",
-        "uri": "http://ed8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/30525.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/16445?play_token=FBqJVziIpu"
       },
       {
         "name": "AKSION HD",
@@ -409,7 +404,7 @@
       {
         "name": "And XplorHD",
         "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-        "uri": "http://ed8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/55228.m3u8.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/197953?play_token=jUIvgY7vIH"
       },
       {
           "name": "Sony Wah",
@@ -510,7 +505,7 @@
       {
         "name": "BOLLYONE HD",
         "logo_uri": "https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png",
-        "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/71037.ts"
+        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/157470?play_token=mreSxkkkcl"
       }
    ]
      },
@@ -596,12 +591,12 @@
         {
             "name": "START SPORTS SELECT 1",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
-            "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/55340.ts"
+            "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/82628?play_token=Z8NFdLV9U7"
         },
         {
             "name": "STAR SPORTS SELECT 2",
             "logo_uri": "https://i.postimg.cc/yYFK4zX0/vp03Mgqk.jpg",
-            "uri": "http://e8.oknirvana.club:8880/live/c3dbByAv2a/kWLu28uZEf/55338.ts"
+            "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/16619?play_token=jZSvH08EUQ"
         },
         {
             "name": "BEIN SPORTS 1",
@@ -620,17 +615,17 @@
          {
              "name": "Premier Sports HD",
              "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
-             "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/28934.ts"
+             "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/1097?play_token=J5Y3dlbAfD"
          },
          {
              "name": "Premier Sports 2 HD",
              "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
-             "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/28915.ts"
+             "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/4723?play_token=UUZwmxBtiC"
          },
          {
               "name": "ASTRO ARENA",
               "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-              "uri": "http://e8.oknirvana.club:8880/live/12m1220/WFtuhyetqj/71102.ts"
+              "uri": "http://Man@vp2p2s.my6868.cc/20422/HyppTV.m3u8.ts"
           }
         ]
       }
