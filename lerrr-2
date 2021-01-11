@@ -26,7 +26,7 @@
       {
          "name": "HBO FAMILY(backup)",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",
-         "uri": "https://MaN@sin-azure5.edge.serveraku.net:9443/free/hbo_family/playlist.m3u8"
+         "uri": "http://MaN@me.zichannels.my.id/ch/family.m3u8"
       },
       {
         "name": "HBO",
@@ -38,7 +38,7 @@
       {
          "name": "HBO(backup)",
          "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
-         "uri": "https://MaN@sin-azure5.edge.serveraku.net:9443/free/hbo/playlist.m3u8"
+         "uri": "http://MaN@50.7.161.82:8278/streams/d/Hbo/playlist.m3u8"
       },
       {
         "name": "FOX MOVIES",
