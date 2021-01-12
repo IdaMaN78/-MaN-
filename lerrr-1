@@ -211,125 +211,125 @@
          "logo_uri": "http://rielcetakcepat.files.wordpress.com/2011/12/6.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "RCTI",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/id/0/09/RCTI_MNC-Group.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Global TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/1200px-GTV_%282017%29.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "MNC TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "MNC Ent",
         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/7/7a/Channel-mncinfotainment.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "TransTV",
         "logo_uri": "http://103.130.186.139:12803/oxygentv/assets/upload/channel/462e74798400563e56ec.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "SCTV",
         "logo_uri": "http://103.130.186.139:12803/oxygentv/assets/upload/channel/2a7c7490cae3f22e0db6.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "TVRI",
         "logo_uri": "https://promoinvestasiproperty.com/wp-content/uploads/2020/03/800px-New_Logo_TVRI-300x177.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Trans7",
         "logo_uri": "http://103.130.186.139:12803/oxygentv/assets/upload/channel/aec4c474da618fe16c76.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "RTV",
         "logo_uri": "https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "ANTV",
         "logo_uri": "https://assets.pikiran-rakyat.com/crop/72x83:668x364/750x500/photo/2020/06/20/1937037054.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Net TV",
         "logo_uri": "https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Music TV",
         "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Life&Style",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/262_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Muslim TV",
          "logo_uri": "https://www.lyngsat.com/logo/tv/mm/muslim-tv-id.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "AlQuran AlKareem",
         "uri": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Vision Prime",
          "logo_uri": "https://www.lyngsat.com/logo/tv/vv/vision-prime-id.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "OK TV",
          "logo_uri": "https://www.lyngsat.com/logo/tv/oo/ok-tv-id.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_dash_vmx/MNCChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       }
     ]
       },
@@ -464,28 +464,28 @@
         "logo_uri": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Disney XD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Disney Channel",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Animax",
         "logo_uri": "https://static.epg.best/kr/Animax.kr.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "ANIPLUS",
@@ -497,21 +497,21 @@
         "logo_uri": "https://kidstvofficial.files.wordpress.com/2015/07/kids_tv_final_1920_1080_png.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Cartoon Network",
         "logo_uri": "https://i.imgur.com/M9Z5cfD.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Miao Mi",
         "logo_uri": "http://miaomi-tv.com/Public/images/miao-mi-logo-color.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       }
     ]  
       },
@@ -565,7 +565,7 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "TRAVEL CHANNEL HD",
@@ -579,36 +579,36 @@
         "logo_uri": "https://static.epg.best/mx/HistoryChannel.mx.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "Crime Investigation",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/400px-C%26I_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },      
       {
         "name": "Asian Food Network",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "HGTV",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "TLC",
         "logo_uri": "https://i.imgur.com/iXwGMoe.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MDY1ZDIzNTctNzE0ZC0zNWI5LWJhMTYtN2VmMDczYjE5MGMw"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
        }
      ]  
    }
- ]
+ ] 
