@@ -257,6 +257,11 @@
         "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/12036?play_token=tzefbAbpwa"
       },
       {
+         "name": "GALAXY",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png",
+         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A2:7F:F3/Rwo0dbAh8T/74182.m3u8.ts"
+      },
+      {
          "name": "FLIK",
          "logo_uri": "https://midnight.ie/wp-content/uploads/2017/12/flik-1.png",
          "uri": "http://mantul.biz.id:8888/live/fadly/2773/223.ts"
