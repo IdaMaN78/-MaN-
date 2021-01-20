@@ -201,6 +201,16 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Astro_Box_Office_Movies.png/200px-Astro_Box_Office_Movies.png",
         "uri": "http://iptvtree.net:8080/live/14709/873066f7/247407.ts"
       }
+    ]
+      },
+      {
+         "name": "AWESOME TV",
+         "samples": [
+     {
+        "name": "Awesome TV",
+        "logo_uri": "https://awesometv.my/img/awesometv_logo.png",
+        "uri": "http://142.44.212.172:25461/live/PKP2/M567/366.m3u8?token=SEEJBRENFggXB1sPBgRaBANSW1QCUFUDAwZXWlMPA1cEBVdSU1UBUwYTFBpGQhFRU1w9D1IQDFEGAk5AEUVXEGwKBUZYRwYBAwgaFBdCCllXE1hWGhBGC1QWWEBXDgtREU9DARoRUUBbUFRnUVMVXVFUQFxYR1oOHBYNDDtSVw9SDQVGWEcEEBkTUUtFFFlaR10OShRQXxZCVRYHRgwQUAJTU0ZOR1ddQF9MSkwUWRZ/aEBKFFdOFlVaEQsLWBBYEQ5SEVpHGBBcQmdKUEUXRldQDwNEEAxAABZOQAlXSj1QDA8KBwZAW1pfSxoPFFIWHhMPCVhbQg1CaxILABQIQAFWUFxAGA=="
+     }
    ]
      },
      {
