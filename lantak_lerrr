@@ -516,6 +516,11 @@
          "uri": "https://nonton.site:8443/live/novi/novi123/29592.m3u8"
      },
      {
+         "name": "GALAXY",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png",
+         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A2:7F:F3/Rwo0dbAh8T/74182.m3u8.ts"
+     },
+     {
         "name": "And FlixHD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
         "uri": "http://iptvtree.net:8080/live/44444/4506fd18/45506.ts"
