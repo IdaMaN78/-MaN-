@@ -240,27 +240,27 @@
       {
         "name": "ShowTime HD",
         "logo_uri": "https://image.flaticon.com/icons/png/512/870/870966.png",
-        "uri": "http://MaN@iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/13008.ts"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/3098.m3u8.ts"
       },
       {
          "name": "GALAXY",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png",
-         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A2:7F:F3/Rwo0dbAh8T/74182.m3u8.ts"
+         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A8:DA:0F/EM0tETnnZXG8/74182.m3u8.ts"
       },
       {
          "name": "FLIK",
          "logo_uri": "https://static.wixstatic.com/media/3dd119_0e9966ff9b7549c5bf761e1f3549ee50~mv2.png",
-         "uri": "http://mantul.biz.id:8888/live/pasek/pasek/223.m3u8.ts"
+         "uri": "https://MaN@nonton.site:8443/live/novi/novi123/29592.m3u8.ts"
      },
      {
         "name": "And FlixHD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-        "uri": "http://MaN@iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/45506.ts"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/54975.m3u8.ts"
       },
       {
           "name": "And PriveHD",
           "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-          "uri": "http://MaN@iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/49557.ts"
+          "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/55158.m3u8.ts"
       },
       {
         "name": "Sony PixHD",
@@ -275,17 +275,17 @@
       {
         "name": "Red By HBO",
         "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
-        "uri": "http://fdtvapps.xyz/channel/red.m3u8"
+        "uri": "http://MaN@fdtvapps.xyz/channel/red.m3u8"
       },
       {
         "name": "MNPlusHD",
         "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
-        "uri": "http://skylogic.site:8080/live/f653192f/Ms3FtoRU2B/192961.m3u8.ts"
+        "uri": "http://MaN@tyciptv.site:8080/live/mariconigliar0/30d5055e/192961.m3u8.ts"
       },
       {
         "name": "MNXHD",
         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
-        "uri": "http://MaN@iptvtree.net:8080/test-5c0b86/ae78/192962?play_token=BgaG6SgQ3A"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/55281.m3u8.ts"
       },
       {
         "name": "Now MoviesHD",
@@ -350,7 +350,7 @@
       {
         "name": "ACTION",
          "logo_uri": "https://www.tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png",
-        "uri": "http://tyciptv.site:8080/live/DAV8kOrOI/9ILHBNKQx/23769.m3u8.ts"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/30618.m3u8.ts"
       }
     ]
       }, 
@@ -483,11 +483,6 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=OWQ0MjE4OTUtZGVhYi0zODMyLWIxMzEtMDEyZTA3ZTEyY2Rm"
-      },
-      {
-        "name": "Sony Wah",
-          "logo_uri": "https://s3.amazonaws.com/zaubatrademarks/4e5aa05a-68c5-4424-b8c0-82e9593b6e18.png",
-        "uri": "http://iptvtree.net:8080/live/14709/873066f7/165801.ts"
       },
       {
         "name": "ZEE BIOSKOP",
