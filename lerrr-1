@@ -164,7 +164,7 @@
       {
         "name": "RANIA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://85.203.33.120:25461/TpjR8tzjqs/eepT6etu5F/174348?play_token=KuQUGiYSlC&token=ShdcBRFREglDUAFWAVBfDwYCWwIKDVYBVAFbUwAED1MJAFAAWwwABgRGHxERR0tSUF5mClwbCQZRUQoBD04bRUJQRjsLXRIJQ1ADAlQAABUdEU0KVVwRDVdTCQMHUQ8EBgYYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71144.m3u8.ts"
       },
       {
         "name": "RANIA LINK 2",
@@ -189,7 +189,7 @@
       {
         "name": "BOO LINK 2",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://iptvtree.net:8080/Mouse/654cac3f/171958?play_token=zaVxtxLZNW"
+        "uri": "http://MaN@bit.ly/2NR3Myf?MANtv"
       },
       {
         "name": "TAYANGAN HEBAT LINK 1",
@@ -291,13 +291,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-        "name": "Music TV",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
         "name": "Life&Style",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/262_144.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
@@ -327,7 +320,7 @@
       {
         "name": "OK TV",
          "logo_uri": "https://www.lyngsat.com/logo/tv/oo/ok-tv-id.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_dash_vmx/MNCChannel.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       }
