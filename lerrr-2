@@ -412,11 +412,6 @@
         "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/197953?play_token=jUIvgY7vIH"
       },
       {
-          "name": "Sony Wah",
-          "logo_uri":"https://s3.amazonaws.com/zaubatrademarks/4e5aa05a-68c5-4424-b8c0-82e9593b6e18.png",
-          "uri": "http://iptvtree.net:8080/live/14709/873066f7/165801.ts"
-      },
-      {
         "name": "YUPP THIRAI HD",
 	       "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
