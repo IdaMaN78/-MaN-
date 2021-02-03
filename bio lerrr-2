@@ -104,12 +104,12 @@
       {
         "name": "CERIA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://vp2p2s.my6868.cc/20494/MANtv.m3u8.ts"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71080.m3u8.ts"
       },
       {
         "name": "OASIS LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/157489.ts"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71021.m3u8.ts"
       },
       {
         "name": "OASIS LINK 2",
@@ -149,7 +149,7 @@
       {
         "name": "PRIMA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/157492?play_token=Sgf2uZ7hRh"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71020.m3u8.ts"
       },
       {
         "name": "PRIMA LINK 2",
@@ -159,12 +159,12 @@
       {
         "name": "RANIA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/171984?play_token=hkbovM9ivT"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71144.m3u8.ts"
       },
       {
         "name": "RANIA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@a2.skynets.tv:8880/live/xzyc12m5819/bL6RTyer7A/71144.m3u8.ts"
+        "uri": "http://MaN@tyciptv.site:8080/mariconigliar0/30d5055e/171984.m3u8.ts"
       },
       {
         "name": "AURA LINK 1",
@@ -174,7 +174,7 @@
       {
         "name": "AURA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@a2.skynets.tv:8880/live/xzyc12m5819/bL6RTyer7A/71145.m3u8.ts"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71145.m3u8.ts"
       },
       {
         "name": "NAURA",
@@ -204,16 +204,6 @@
     ]
       },
       {
-         "name": "AWESOME TV",
-         "samples": [
-     {
-        "name": "Awesome TV",
-        "logo_uri": "https://awesometv.my/img/awesometv_logo.png",
-        "uri": "http://MaN@bit.ly/3sMEhOS"
-     }
-   ]
-     },
-     {
         "name": "TV INDONESIA",
         "samples": [
       {
@@ -297,13 +287,6 @@
         "name": "Net TV",
         "logo_uri": "https://i.postimg.cc/8P8JP5D0/VYej-Q0y-400x400.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
-        "name": "Music TV",
-        "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
@@ -501,7 +484,7 @@
       {
         "name": "ANIPLUS",
         "logo_uri": "https://i.imgur.com/y1LQk44.png",
-        "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/157566.ts"
+        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/71110.m3u8.ts"
       },
       {
         "name": "Kids TV",
