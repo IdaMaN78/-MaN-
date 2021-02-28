@@ -277,6 +277,11 @@
         "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/28733.m3u8.ts"
       },
       {
+        "name": "SYFY",
+        "logo_uri": "https://1000logos.net/wp-content/uploads/2020/09/Syfy-Logo.png",
+        "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/3096.m3u8.ts"
+      },
+      {
         "name": "Red By HBO",
         "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
         "uri": "http://fdtvapps.xyz/channel/red.m3u8"
