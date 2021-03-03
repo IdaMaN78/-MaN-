@@ -459,9 +459,9 @@
            "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/49539?play_token=87S67ErsTn"
         },
         {
-           "name": "MOVIES NOW HD",
-           "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
-           "uri": "http://103.194.169.115:25461/8SFvFs5CfZ/n7ph4s/54102?token=GRdRWUpbQV9BAFxTBgFSUVEEXVdUBFFRC1sAUFNUDAQBDQ8KCgJRVVQRFEQQFxAGVQxnD1YVCVQHUlQAHEFNQgdHZlFdEVlHUgIPUVJSUEEYQ0wPX1IRWwJVVAsFUw0BVwIVGklaB0dZEQlTVVBbQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBUFMMURpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFSV1UEWRob"
+           "name": "STAR ACTION",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
+           "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59541.m3u8.ts?MaNTV"
         }, 
         {
             "name": "MNX HD",
