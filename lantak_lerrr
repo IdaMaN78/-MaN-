@@ -501,16 +501,11 @@
         "uri": "http://iptvtree.net:8080/live/44444/4506fd18/11511.ts"
       },
       {
-         "name": "FLIK",
-         "logo_uri": "https://static.wixstatic.com/media/3dd119_0e9966ff9b7549c5bf761e1f3549ee50~mv2.png",
-         "uri": "https://nonton.site:8443/live/novi/novi123/29592.m3u8"
-     },
-     {
-         "name": "GALAXY",
-         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/10/Galaxy_TV.png",
-         "uri": "http://MaN@80.82.77.130:80/live/mag00:1A:79:A2:7F:F3/Rwo0dbAh8T/74182.m3u8.ts"
-     },
-     {
+           "name": "STAR ACTION",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
+           "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59541.m3u8.ts?MaNTV"
+      },
+      {
         "name": "And FlixHD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
         "uri": "http://iptvtree.net:8080/live/44444/4506fd18/45506.ts"
