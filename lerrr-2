@@ -297,10 +297,10 @@
         "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/55281.m3u8.ts"
       },
       {
-        "name": "Now MoviesHD",
-        "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
-        "uri": "http://skylogic.site:8080/live/f653192f/Ms3FtoRU2B/169118.ts"
-      },
+           "name": "STAR ACTION",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
+           "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59541.m3u8.ts?MaNTV"
+      }, 
       {
         "name": "ActionMax HD",
         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Action_Max_logo.png",
