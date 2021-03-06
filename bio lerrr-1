@@ -26,7 +26,7 @@
       {
          "name": "HBO(backup)",
          "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
-         "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Hbo.m3u8"
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71057.m3u8.ts?MaNTV"
       },
       {
         "name": "HBO",
@@ -240,17 +240,17 @@
       {
         "name": "ShowTime HD",
         "logo_uri": "https://image.flaticon.com/icons/png/512/870/870966.png",
-        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/3098.m3u8.ts"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/3099.m3u8.ts?MaNTV"
      },
      {
         "name": "And FlixHD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/54975.m3u8.ts"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/54975.m3u8.ts?MaNTV"
       },
       {
           "name": "And PriveHD",
           "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-          "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/55158.m3u8.ts"
+          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/55158.m3u8.ts?MaNTV"
       },
       {
         "name": "Sony PixHD",
@@ -275,12 +275,7 @@
       {
         "name": "MNXHD",
         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
-        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/55281.m3u8.ts"
-      },
-      {
-        "name": "Now MoviesHD",
-        "logo_uri": "http://static.epg.best/in/MoviesNow.in.png",
-        "uri": "  "
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/55281.m3u8.ts?MaNTV"
       },
       {
         "name": "AKSION HD",
@@ -300,7 +295,7 @@
       {
          "name": "STAR ACTION",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-         "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59541.m3u8.ts?MaNTV"
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/59541.m3u8.ts?MaNTV"
       },
       {
         "name": "ActionMax HD",
@@ -325,7 +320,7 @@
       {
         "name": "ACTION",
          "logo_uri": "https://www.tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png",
-        "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/30618.m3u8.ts"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/30591.m3u8.ts?MaNTV"
       }
     ]
       }, 
@@ -335,12 +330,12 @@
       {
         "name": "And PicsHD",
         "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-        "uri": "http://skylogic.site:8080/live/f653192f/Ms3FtoRU2B/16958.ts"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/1957.m3u8.ts?MaNTV"
       },
       {
         "name": "And XplorHD",
         "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-        "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/197953?play_token=OBApYHQol0"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/55228.m3u8.ts?MaNTV"
       },
       {
         "name": "Zee CinemaHD",
