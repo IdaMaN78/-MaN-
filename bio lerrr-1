@@ -230,7 +230,7 @@
       {
         "name": "HBOHD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-        "uri": "https://MaN@liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/1711.m3u8.ts?MaNTV"
       },
       {
         "name": "Star MoviesHD",
@@ -296,6 +296,11 @@
          "name": "STAR ACTION",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/59541.m3u8.ts?MaNTV"
+      },
+      {
+         "name": "STAR HITS",
+         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
+         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/59538.m3u8.ts?MaNTV"
       },
       {
         "name": "ActionMax HD",
