@@ -139,7 +139,7 @@
       {
         "name": "CITRA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://MaN@meu02.cularu.com:8880/live/Xv6uCjpvYZ/W8d6YDPDSt/71146.m3u8.ts?MaNTV"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/F5HfC5XmZ3/uWs6Jurq2R/71146.m3u8.ts?MaNTV"
       },
       {
         "name": "CITRA LINK 2",
@@ -390,11 +390,6 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0"
-      },
-      {
-        "name": "KARAOKE CHANNEL",
-        "logo_uri": "https://surveymonkey-assets.s3.amazonaws.com/survey/155452577/321c2f75-b60c-43e8-bcaf-6a15b67c7179.png",
-        "uri": "http://MaN@edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8"
       },
       {
         "name": "MALEO",
