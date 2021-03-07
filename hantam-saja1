@@ -442,16 +442,16 @@
           "name": "STAR HITS",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59538?MaNTV"
-     },
-     {
-           "name": "STAR MOVIES HD",
-           "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1896?MaNTV"
-       },
-       {
+      },
+      {
             "name": "STAR ACTION",
             "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
             "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59541?MaNTV"
+       },
+       {
+           "name": "STAR MOVIES HD",
+           "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
+           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1896?MaNTV"
        },
        {
            "name": "SONY PIX HD",
@@ -831,22 +831,22 @@
          {
               "name": "&XPLOR HD",
               "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-             "uri": "http://iptvtree.net:8080/live/14709/873066f7/197953.m3u8.ts"
+             "uri": "  "
         },
         {
               "name": "SONY MAX HD",
              "logo_uri": "https://i.imgur.com/YHa03Rq.png",
-             "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/1359?play_token=76meGYvxVy"
+             "uri": "  "
         },
         {
             "name": "BOLLYONE HD",
             "logo_uri": "https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png",
-            "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/157470?play_token=R13OS2DVho"
+            "uri": "  "
         },
         {
             "name": "B4u Kadak",
             "logo_uri": "https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png",
-            "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/49556?play_token=KycK9kQBdE"
+            "uri": "  "
         }
      ]
        },
@@ -1084,12 +1084,12 @@
         {
               "name": "DOCUBOX HD",
               "logo_uri": "https://i.imgur.com/rnQMXRm.jpg",
-              "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/59863.ts"
+              "uri": "  "
         },
         {
               "name": "OUTDOOR",
               "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
-              "uri": "http://iptvtree.net:8080/live/qVXeKPjVIu/9DvGhbBgfI/15075.ts"
+              "uri": "  "
          }
       ]
         },
@@ -1176,7 +1176,7 @@
             {
                   "name": "ANIPLUS",
                   "logo_uri": "https://i.imgur.com/y1LQk44.png",
-                  "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/264466?play_token=IorT7Sn17K"
+                  "uri": "  "
              },
              {
                    "name": "MIAO MI",
@@ -1262,22 +1262,22 @@
         {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-          "uri": "http://vp2p2s.my6868.cc/20414/freenetTV.m3u8.ts"
+          "uri": "  "
        },
        {
             "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://vp2p2s.my6868.cc/20415/freenetTV.m3u8.ts"
+            "uri": "  "
         },
         {
             "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://vp2p2s.my6868.cc/20416/freenetTV.m3u8.ts"
+            "uri": "  "
         },
         {
             "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://vp2p2s.my6868.cc/20417/freenetTV.m3u8.ts"
+            "uri": "  "
          },
          {
             "name": "BEIN SPORTS 1",
@@ -1296,82 +1296,82 @@
          {
             "name": "SONY TEN 1",
             "logo_uri": "https://static.epg.best/in/SonyTEN1.in.png",
-            "uri": "http://iptvtree.net:8080/live/14709/873066f7/74893.ts" 
+            "uri": "  " 
          },
          {
              "name": "SONY TEN 2",
              "logo_uri": "https://static.epg.best/in/SonyTEN2.in.png",
-             "uri": "http://iptvtree.net:8080/live/14709/873066f7/56190.ts"
+             "uri": "  "
          },
          {
               "name": "ASTRO ARENA",
               "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-              "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
+              "uri": "  "
          },
          {
              "name": "START SPORTS SELECT 1",
              "logo_uri": "https://static.epg.best/in/StarSportsSelect1.in.png",
-             "uri": "http://skylogic.site:8080/live/test-086224/TmJ6gQxGTf/82628.ts"
+             "uri": "  "
          },
          {
              "name": "STAR SPORTS SELECT 2",
              "logo_uri": "https://static.epg.best/in/StarSportsSelect2.in.png",
-              "uri": "http://skylogic.site:8080/live/test-086224/TmJ6gQxGTf/201082.ts"
+              "uri": "  "
          },
          {
              "name": "Premier Sports HD",
              "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
-             "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/1097?play_token=vORWeTW1iC"
+             "uri": "  "
          },
          {
              "name": "Premier Sports 2 HD",
              "logo_uri": "https://www.digisport.cz/wp-content/themes/digisport/dist/images/premier-sport_20ba4015.png",
-             "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/4723?play_token=NUucxMnRuv"
+             "uri": "  "
          },
          {
              "name": "BT SPORTS 1",
              "logo_uri": "https://e7.pngegg.com/pngimages/882/203/png-clipart-brand-logo-product-design-bt-sport-logo-text-sport.png",
-             "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/270?play_token=Ta5xJT8vOB"
+             "uri": "  "
          },
          {
               "name": "BT SPORTS 2",
               "logo_uri": "https://tvadvertising.uk/wp-content/uploads/2017/12/BTSport2HD.png",
-              "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/273?play_token=mLKPu7tzKu"
+              "uri": "  "
          },
          {
              "name": "SPORT TV 1 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/qpyqws1470407526.png",
-             "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/1483?play_token=oAVPGibnds"
+             "uri": "  "
          },
          {
              "name": "SPORT TV 2 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png",
-             "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/1487?play_token=7QuB9fGjmI"
+             "uri": "  "
          },
          {
              "name": "SPORT TV 3 HD",
              "logo_uri": "https://www.thesportsdb.com/images/media/logo/xysrvw1470407766.png",
-             "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/1490?play_token=IYeYsiNGRO"
+             "uri": "  "
          },
          {
              "name": "FISHING NETWORK",
              "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
-              "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/12983?play_token=GhZhHxghkF"
+              "uri": "  "
          },
          {
              "name": "EUROSPORTS",
              "logo_uri": "https://i.imgur.com/jPW4CkF.png",
-             "uri": "http://iptvtree.net:8080/live/14709/873066f7/158353.ts"
+             "uri": "  "
          },
          {
              "name": "EUROSPORTS 1",
              "logo_uri": "https://i.imgur.com/jPW4CkF.png",
-             "uri": "http://iptvtree.net:8080/live/14709/873066f7/692.ts"
+             "uri": "  "
          },
          {
              "name": "EUROSPORTS 2",
              "logo_uri": "https://i.imgur.com/syYVNay.png?1",
-              "uri": "http://iptvtree.net:8080/live/14709/873066f7/1555.ts"
+              "uri": "  "
           }
         ]
       }
