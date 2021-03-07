@@ -284,18 +284,23 @@
       {
         "name": "MNPlusHD",
         "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
-        "uri": "http://MaN@tyciptv.site:8080/live/mariconigliar0/30d5055e/192961.m3u8.ts"
+        "uri": "http://MaN@tyciptv.site:8080/live/mariconigliar0/30d5055e/192961.m3u8.ts?MaNTV"
       },
       {
         "name": "MNXHD",
         "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000045360000/PORTRAIT/qELkgspp.png",
-        "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/55281.m3u8.ts"
+        "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/55281.m3u8.ts?MaNTV"
       },
       {
            "name": "STAR ACTION",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/F5HfC5XmZ3/uWs6Jurq2R/59538.m3u8.ts?MaNTV"
-      }, 
+           "uri": " http://ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/59541.m3u8.ts?MaNTV"
+      },
+      {
+           "name": "STAR HITS",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
+           "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/59538.m3u8.ts?MaNTV"
+      },
       {
         "name": "ActionMax HD",
         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/8/8e/Action_Max_logo.png",
