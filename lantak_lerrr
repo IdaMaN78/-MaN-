@@ -498,22 +498,22 @@
       {
         "name": "Star MoviesHD",
         "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-        "uri": "http://iptvtree.net:8080/live/44444/4506fd18/11511.ts"
+        "uri": "  "
       },
       {
-           "name": "STAR ACTION",
-           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-           "uri": "http://MaN@e8.oknirvana.club:8880/live/12M94091/aWDZHcyxmh/59541.m3u8.ts?MaNTV"
+           "name": "STAR HITS",
+           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
+           "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59538.m3u8.ts?MyTv"
       },
       {
         "name": "And FlixHD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-        "uri": "http://iptvtree.net:8080/live/44444/4506fd18/45506.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/54975.m3u8.ts?MyTv"
       },
       {
         "name": "Sony PixHD",
         "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-        "uri": "http://iptvtree.net:8080/live/44444/4506fd18/49539.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/1933.m3u8.ts?MyTv"
       },
       {
           "name": "RED BY HBO",
@@ -702,13 +702,6 @@
         "name": "DISNEY JUNIOR",
         "logo_uri": "https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
-        "name": "DISNEY XD",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
