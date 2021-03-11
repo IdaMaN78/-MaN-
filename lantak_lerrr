@@ -197,13 +197,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-        "name": "UTV MOVIES HD",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
-      },
-      {
          "name": "COLORS CINEPLEX HD",
          "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png",
          "uri": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd",
@@ -323,14 +316,14 @@
       {
         "name": "HBO",
         "logo_uri": "https://vignette.wikia.nocookie.net/central/images/4/44/HBO_Logo.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
         "name": "HBO Family",
         "logo_uri": "https://static.epg.best/us/HBOFamily.us.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
@@ -344,7 +337,7 @@
       {
         "name": "Cinemax",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
