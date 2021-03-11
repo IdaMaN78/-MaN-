@@ -494,38 +494,23 @@
           "name": "MOVIES 2",
           "samples": [
       {
-         "name": "HBO SIGNATURE(backup)",
-         "logo_uri": "https://static.epg.best/us/HBOSignature.us.png",
-         "uri": "http://MaN@36.37.252.114:888/Apple/OneTV-032/playlist.m3u8?MyTv"
-      },
-      {
         "name": "HBO SIGNATURE",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
-         "name": "HBO(backup)",
-         "logo_uri": "https://i0.wp.com/reel360.com/wp-content/uploads/2020/05/HBO_logo_blue.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/71057.m3u8.ts?MyTv"
       },
       {
         "name": "HBO",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBO2/sa_dash_vmx/HBO2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-         "name": "HBO FAMILY(backup)",
-         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png",
-         "uri": "http://MaN@36.37.252.114:888/Apple/OneTV-033/playlist.m3u8?MyTv"
-      },
-      {
         "name": "HBO FAMILY",
         "logo_uri": "https://static.epg.best/us/HBOFamily.us.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
@@ -572,14 +557,9 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-         "name": "CINEMAX(backup)",
-         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/71058.m3u8.ts?MyTv"
-      },
-      {
         "name": "CINEMAX",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
