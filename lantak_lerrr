@@ -52,7 +52,7 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/c/ce/Jap.png",
-        "uri": "http://MaN@tyciptv.site:8080/live/mariconigliar0/30d5055e/171954.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/71117.m3u8.ts?bestTV"
       },
       {
         "name": "SALAM HD",
@@ -126,7 +126,7 @@
       {
         "name": "ASTRO WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://50.7.222.130:8278/streams/d/Warna_backup/playlist.m3u8"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/71022.m3u8.ts?bestTV"
       },
       {
         "name": "ASTRO RIA",
@@ -144,24 +144,24 @@
         "uri": "http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8"
       },
       {
+        "name": "ASTRO BOO HD",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png",
+        "uri": "http://MaN@50.7.161.82:8278/streams/d/Boo/playlist.m3u8?bestTV"
+      }
+      {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/71144.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/71144.m3u8.ts?bestTV"
       },
       {
         "name": "ASTRO AURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/71145.m3u8.ts"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/71145.m3u8.ts?bestTV"
       },
       {
         "name": "TAYANGAN HEBAT",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/176_144.png",
         "uri": "http://tyciptv.site:8080/live/mariconigliar0/30d5055e/247407.ts"
-      },
-      {
-        "name": "ASTRO BOO HD",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
       }
     ]
       },
@@ -491,27 +491,27 @@
       {
         "name": "Star MoviesHD",
         "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-        "uri": "  "
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/1896.m3u8.ts?bestTV"
       },
       {
            "name": "STAR HITS",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
-           "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59538.m3u8.ts?MyTv"
+           "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59538.m3u8.ts?bestTV"
       },
       {
         "name": "And FlixHD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/54975.m3u8.ts?MyTv"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/54975.m3u8.ts?bestTV"
       },
       {
         "name": "Sony PixHD",
         "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/1933.m3u8.ts?MyTv"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/1933.m3u8.ts?bestTV"
       },
       {
           "name": "RED BY HBO",
           "logo_uri": "https://i.ibb.co/swQNcWz/REDBHBOIDD-S1.png",
-          "uri": "http://fdtvapps.xyz/channel/red.m3u8"
+          "uri": "http://fdtvapps.xyz/channel/red.m3u8?bestTV"
       },
       {
         "name": "KIX",
@@ -877,9 +877,9 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
       {
-              "name": "ASTRO ARENA",
-       "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-       "uri": "http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8"
+           "name": "ASTRO ARENA",
+           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
+           "uri": "http://50.7.161.82:8278/streams/d/Arena/playlist.m3u8?bestTV"
       }
     ]
   }	
