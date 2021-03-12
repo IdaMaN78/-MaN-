@@ -94,12 +94,12 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71117?MaNTV"
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71117?MyTv"
       },
       {
         "name": "ASTRO NAURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
-        "uri":  "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71023?MaNTV"
+        "uri":  "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71023?MyTv"
       },
       {
           "name": "ASTRO CERIA 1",
@@ -109,77 +109,77 @@
       {
           "name": "ASTRO CERIA 2",
           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71080?MaNTV"
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71080?MyTv"
       },
       {
         "name": "ASTRO OASIS 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@MaN@139.99.61.223/oasis.m3u8?MaNTV"
+        "uri": "http://MaN@MaN@139.99.61.223/oasis.m3u8?MyTv"
       },
       {
         "name": "ASTRO OASIS 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71021?MaNTV"
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71021?MyTv"
       },
       {
         "name": "ASTRO WARNA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71022?MaNTV"
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71022?MyTv"
       },
       {
         "name": "ASTRO WARNA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://50.7.222.130:8278/streams/d/Warna_backup/playlist.m3u8"
+        "uri": "http://MaN@50.7.222.130:8278/streams/d/Warna_backup/playlist.m3u8?MyTv"
       },
       {
         "name": "ASTRO RIA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1705?MaNTV"
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1705?MyTv"
       },
       {
         "name": "ASTRO RIA 2",
          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@139.99.61.223/riahd.m3u8?MaNTV"
+        "uri": "http://MaN@139.99.61.223/riahd.m3u8?MyTv"
       },
       {
         "name": "ASTRO CITRA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/F5HfC5XmZ3/uWs6Jurq2R/71146.m3u8.ts?MaNTV"
+        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/F5HfC5XmZ3/uWs6Jurq2R/71146.m3u8.ts?MyTv"
       },
       {
         "name": "ASTRO CITRA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71146?MaNTV"
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71146?MyTv"
       },
       {
         "name": "ASTRO PRIMA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71020?MaNTV"
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71020?MyTv"
       },
       {
         "name": "ASTRO PRIMA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@139.99.61.223/prima.m3u8?MaNTV"
+        "uri": "http://MaN@139.99.61.223/prima.m3u8?MyTv"
       },
       {
-        "name": "ASTRO RANIA 1",
+        "name": "ASTRO HELLO",
+        "logo_uri": "https://cdn3.iconfinder.com/data/icons/message-1-glyph-1/64/Chat_greeting_hello_message-512.png",
+        "uri":  "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71088?MyTv"
+      },
+      {
+        "name": "ASTRO BOO HD",
+        "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
+        "uri": "http://MaN@139.99.61.223/boo.m3u8?MyTv"
+      },
+      {
+        "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "  "
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71144?MyTv"
       },
       {
-        "name": "ASTRO RANIA 2",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71144?MaNTV"
-      },
-      {
-        "name": "ASTRO AURA 1",
+        "name": "ASTRO AURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71145?MaNTV"
-      },
-      {
-        "name": "ASTRO AURA 2",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "  "
+        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71145?MyTv"
       },
       {
         "name": "TAYANGAN HEBAT 1",
@@ -190,16 +190,6 @@
         "name": "TAYANGAN HEBAT 2",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png",
         "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/247407?play_token=6arfLE2EmA"
-      },
-      {
-        "name": "ASTRO HELLO",
-        "logo_uri": "https://cdn3.iconfinder.com/data/icons/message-1-glyph-1/64/Chat_greeting_hello_message-512.png",
-        "uri":  "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71088?MaNTV"
-      },
-      {
-        "name": "ASTRO BOO HD",
-        "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://MaN@139.99.61.223/boo.m3u8?MaNTV"
       }
     ]
       },
@@ -380,32 +370,32 @@
     {
         "name": "HBO HD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-         "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71057?MaNTV"
+         "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71057?MyTv"
     },
     {
         "name": "HBO 2",
        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png",
-       "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/30443?MaNTV"
+       "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/30443?MyTv"
     },
     {
         "name": "HBO 3",
          "logo_uri": "https://ewsat.com/img/HBO3.png",
-         "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/30442?MaNTV"
+         "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/30442?MyTv"
     },
     {
          "name": "HBO ZONE (US)",
           "logo_uri": "https://logodix.com/logo/1111252.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/3120?MaNTV"
+          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/3120?MyTv"
     },
     {
           "name": "Epix Hits",
           "logo_uri": "https://sc.dish.com/shared/images/station-logos/EPIXH.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59225?MaNTV"
+          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59225?MyTv"
     },
     {
          "name": "STARZ ACTION(US)",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/29464?MaNTV"
+          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/29464?MyTv"
     },
     {
         "name": "FOX Movies",
@@ -431,27 +421,27 @@
       {
           "name": "&PRIVE HD",
           "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/55158?MaNTV"
+          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/55158?MyTv"
      },
      {
            "name": "&FLIX HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/54975?MaNTV"
+           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/54975?MyTv"
      },
      {
           "name": "STAR HITS",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59538?MaNTV"
+          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59538?MyTv"
       },
       {
             "name": "STAR ACTION",
             "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-            "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59541?MaNTV"
+            "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59541?MyTv"
        },
        {
            "name": "STAR MOVIES HD",
            "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1896?MaNTV"
+           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1896?MyTv"
        },
        {
            "name": "SONY PIX HD",
@@ -466,7 +456,7 @@
         {
             "name": "MNPLUS HD",
             "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
-            "uri": "http://skylogic.site:8080/live/f653192f/Ms3FtoRU2B/192961.ts"
+            "uri": "http://skylogic.site:8080/live/f653192f/Ms3FtoRU2B/192961.ts?MyTv"
        },
        {
          "name": "TRING FANTASY",
@@ -1023,7 +1013,7 @@
       {
                "name": "DISCOVERY ASIA",
               "logo_uri": "https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg",
-              "uri": "http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/71072.ts"
+              "uri": "http://ed8.oknirvana.club:8880/live/41w12m7209/TGZhaexm9n/71072.ts?MyTv"
         },
         {
             "name": "DISCOVERY CHANNEL",
@@ -1042,7 +1032,7 @@
         {
               "name": "SMITHSONIAN CHANNEL",
              "logo_uri": "https://static.epg.best/gb/SmithsonianChannel.uk.png",
-             "uri": "http://iptvtree.net:8080/qVXeKPjVIu/9DvGhbBgfI/8585"
+             "uri": "  "
         },
         {
               "name": "DOCUBOX HD",
