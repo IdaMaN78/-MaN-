@@ -147,7 +147,7 @@
         "name": "ASTRO BOO HD",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_300.png",
         "uri": "http://MaN@50.7.161.82:8278/streams/d/Boo/playlist.m3u8?bestTV"
-      }
+      },
       {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
@@ -514,10 +514,10 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       }
     ]
-  },
-  {
-    "name": " DOKUMENTARI",
-    "samples": [
+      },
+      {
+            "name": " DOKUMENTARI",
+            "samples": [
       {
         "name": "BBC EARTH HD",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",
@@ -630,11 +630,11 @@
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       }
-	]
-  },
-  {
-    "name": "KIDS",
-    "samples": [
+    ]
+      },
+      {
+           "name": "KIDS",
+           "samples": [
       {
         "name": "DREAMWORK HD",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
@@ -720,10 +720,10 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       }
     ]
-  },
-  {
-    "name": "NEWS",
-    "samples": [
+      },
+      {
+          "name": "NEWS",
+          "samples": [
      {
         "name": "BBC WORLD NEWS HD",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-world-news.png",
@@ -795,10 +795,10 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       }
     ]
-  },
-  {
-    "name": "SPORTS",
-    "samples": [
+      },
+      {
+         "name": "SPORTS",
+         "samples": [
      {
         "name": "UNIFI SPORTS1",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
