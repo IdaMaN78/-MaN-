@@ -126,7 +126,7 @@
       {
         "name": "ASTRO WARNA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14m22803/5yuMjzHEZ6/71022.m3u8.ts?bestTV"
+        "uri": "  "
       },
       {
         "name": "ASTRO RIA",
@@ -151,12 +151,12 @@
       {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/71144.m3u8.ts?bestTV"
+        "uri": "  "
       },
       {
         "name": "ASTRO AURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/14M3923/VEVyAhAKcJ/71145.m3u8.ts?bestTV"
+        "uri": "  "
       },
       {
         "name": "TAYANGAN HEBAT",
@@ -447,13 +447,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-        "name": "COMEDY CENTRAL HD",
-	"logo_uri": "https://ocdn.eu/images/program-tv/MTA7MDA_/0568adfe19903bb89c65fa1ecf6b95f0.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
-      },
-      {
         "name": "AXN",
         "logo_uri": "https://static.epg.best/kr/AXN.kr.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
@@ -496,17 +489,17 @@
       {
            "name": "STAR HITS",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
-           "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59538.m3u8.ts?bestTV"
+           "uri": "  "
       },
       {
         "name": "And FlixHD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/54975.m3u8.ts?bestTV"
+        "uri": "  "
       },
       {
         "name": "Sony PixHD",
         "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/1933.m3u8.ts?bestTV"
+        "uri": "  "
       },
       {
           "name": "RED BY HBO",
