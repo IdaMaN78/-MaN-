@@ -139,7 +139,7 @@
       {
         "name": "ASTRO RIA 2",
          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@139.99.61.223/riahd.m3u8?MyTv"
+        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/1705.m3u8.ts?MyTv"
       },
       {
         "name": "ASTRO CITRA 1",
@@ -1230,22 +1230,22 @@
         {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-          "uri": "  "
+          "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59220.m3u8.ts?MyTv"
        },
        {
             "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "  "
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59219.m3u8.ts?MyTv"
         },
         {
             "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "  "
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59218.m3u8.ts?MyTv"
         },
         {
             "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "  "
+            "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59217.m3u8.ts?MyTv"
          },
          {
             "name": "BEIN SPORTS 1",
@@ -1274,7 +1274,7 @@
          {
               "name": "ASTRO ARENA",
               "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-              "uri": "  "
+              "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/71102.m3u8.ts?MyTv"
          },
          {
              "name": "START SPORTS SELECT 1",
@@ -1314,17 +1314,17 @@
          {
              "name": "FISHING NETWORK",
              "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
-              "uri": "  "
+              "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/30040.m3u8.ts?MyTv"
          },
          {
              "name": "EUROSPORTS 1",
              "logo_uri": "https://i.imgur.com/jPW4CkF.png",
-             "uri": "  "
+             "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/2917.m3u8.ts?MyTv"
          },
          {
              "name": "EUROSPORTS 2",
              "logo_uri": "https://i.imgur.com/syYVNay.png?1",
-              "uri": "  "
+              "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/2916.m3u8.ts?MyTv"
           }
         ]
       }
