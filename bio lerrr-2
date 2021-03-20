@@ -99,7 +99,7 @@
       {
         "name": "CERIA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
+        "uri": "  "
       },
       {
         "name": "CERIA LINK 2",
@@ -114,7 +114,7 @@
       {
         "name": "OASIS LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8"
+        "uri": "http://MaN@50.7.161.82:8278/streams/d/oasis_pye/playlist.m3u8?MaNTV"
       },
       {
         "name": "WARNA LINK 1",
@@ -124,12 +124,12 @@
       {
         "name": "WARNA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "MaN@bit.ly/3qXW6Is?MaNTV"
+        "uri": "http://MaN@50.7.161.82:8278/streams/d/warna_pye/playlist.m3u8?MaNTV"
       },
       {
         "name": "RIA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "MaN@bit.ly/31651gh?freenetTV"
+        "uri": "http://MaN@50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8?MaNTV"
       },
       {
         "name": "RIA LINK 2",
@@ -154,7 +154,7 @@
       {
         "name": "PRIMA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8"
+        "uri": "http://MaN@50.7.161.82:8278/streams/d/prima_pye/playlist.m3u8?MaNTV"
       },
       {
         "name": "RANIA LINK 1",
@@ -184,7 +184,7 @@
       {
         "name": "BOO LINK1",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
-        "uri": "http://MaN@50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
+        "uri": "http://MaN@207.244.239.77:25461/live/free/free/2726.m3u8.ts?MaNTV"
       },
       {
         "name": "BOO LINK 2",
