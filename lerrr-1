@@ -52,7 +52,7 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71117.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/171954?MaNTV"
       },
       {
         "name": "SALAM HD",
@@ -109,7 +109,7 @@
       {
         "name": "CERIA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/F5HfC5XmZ3/uWs6Jurq2R/71080.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157481?MaNTV"
       },
       {
         "name": "OASIS LINK 1",
@@ -119,32 +119,32 @@
       {
         "name": "OASIS LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71021.m3u8.ts?MANtv"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157489?MANtv"
       },
       {
         "name": "WARNA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://50.7.222.130:8278/streams/d/Warna_backup/playlist.m3u8"
+        "uri": "http://50.7.161.82:8278/streams/d/warna_pye/playlist.m3u8?MaNTV"
       },
       {
         "name": "WARNA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71022.m3u8.ts?MANtv"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157492?MANtv"
       },
       {
         "name": "RIA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8"
+        "uri": "http://50.7.161.82:8278/streams/d/ria_pye/playlist.m3u8?MaNTV"
       },
       {
         "name": "RIA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/1705.m3u8.ts?MANtv"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/158347?MANtv"
       },
       {
         "name": "CITRA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/F5HfC5XmZ3/uWs6Jurq2R/71146.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157569?MaNTV"
       },
       {
         "name": "CITRA LINK 2",
@@ -154,7 +154,7 @@
       {
         "name": "PRIMA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71020.m3u8.ts?MANtv"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157467?MANtv"
       },
       {
         "name": "PRIMA LINK 2",
@@ -169,12 +169,12 @@
       {
         "name": "RANIA LINK 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "  "
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/171984?MaNTV"
       },
       {
         "name": "AURA LINK 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71145.m3u8.ts?MANtv"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/171986?MANtv"
       },
       {
         "name": "AURA LINK 2",
@@ -190,16 +190,6 @@
         "name": "BOO LINK 2",
         "logo_uri": "https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/404-300_orig.png",
         "uri": "https://MaN@raizo.raizoml123.workers.dev/0:/IPTV/Playlist/Boo.m3u8?MANtv"
-      },
-      {
-        "name": "TAYANGAN HEBAT LINK 1",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Astro_Box_Office_Movies.png/200px-Astro_Box_Office_Movies.png",
-        "uri": "http://iptvtree.net:8080/live/Mouse/654cac3f/247407.ts"
-      },
-      {
-        "name": "TAYANGAN HEBAT LINK 2",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Astro_Box_Office_Movies.png/200px-Astro_Box_Office_Movies.png",
-        "uri": "http://iptvtree.net:8080/test-2ddd5c/43bf/247407?play_token=ERy8a756bq"
       }
     ]
       },
@@ -349,6 +339,11 @@
         "uri": "https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&"
+      },
+      {
+        "name": "SURIA(backup)",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/7/78/Suria.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8?MaNTV"
       },
       {
          "name": "SURIA",
