@@ -5,14 +5,14 @@
        {
         "name": "TV1",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227471/3221227471.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227769/3221227769.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
         "name": "TV2",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227490/3221227490.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227815/3221227815.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
@@ -94,12 +94,12 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71117?MyTv"
+        "uri": "http://23.237.61.18:61980/myplay/c_58011/index.m3u8?key=dXR4MdR_wOP4qM4bhpqymw?MyTv"
       },
       {
         "name": "ASTRO NAURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
-        "uri":  "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71023?MyTv"
+        "uri":  "http://23.237.61.18:61980/myplay/c_58042/index.m3u8?key=dXR4MdR_wOP4qM4bhpqymw?MyTv"
       },
       {
           "name": "ASTRO CERIA 1",
@@ -109,7 +109,7 @@
       {
           "name": "ASTRO CERIA 2",
           "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71080?MyTv"
+        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8?MyTv"
       },
       {
         "name": "ASTRO OASIS 1",
@@ -119,27 +119,27 @@
       {
         "name": "ASTRO OASIS 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71021?MyTv"
+        "uri": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8?MyTv"
       },
       {
         "name": "ASTRO WARNA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71022?MyTv"
+        "uri": "http://50.7.161.82:8278/streams/d/Warna_pye/playlist.m3u8?MyTv"
       },
       {
         "name": "ASTRO WARNA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "http://MaN@50.7.222.130:8278/streams/d/Warna_backup/playlist.m3u8?MyTv"
+        "uri": "  ?MyTv"
       },
       {
         "name": "ASTRO RIA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1705?MyTv"
+        "uri": "http://50.7.161.82:8278/streams/d/Ria_pye/playlist.m3u8?MyTv"
       },
       {
         "name": "ASTRO RIA 2",
          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/1705.m3u8.ts?MyTv"
+        "uri": "  "
       },
       {
         "name": "ASTRO CITRA 1",
@@ -149,12 +149,12 @@
       {
         "name": "ASTRO CITRA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71146?MyTv"
+        "uri": "  ?MyTv"
       },
       {
         "name": "ASTRO PRIMA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71020?MyTv"
+        "uri": " ?MyTv"
       },
       {
         "name": "ASTRO PRIMA 2",
@@ -164,7 +164,7 @@
       {
         "name": "ASTRO HELLO",
         "logo_uri": "https://cdn3.iconfinder.com/data/icons/message-1-glyph-1/64/Chat_greeting_hello_message-512.png",
-        "uri":  "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71088?MyTv"
+        "uri":  "  ?MyTv"
       },
       {
         "name": "ASTRO BOO HD",
@@ -174,12 +174,12 @@
       {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71144?MyTv"
+        "uri": "  ?MyTv"
       },
       {
         "name": "ASTRO AURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71145?MyTv"
+        "uri": "  ?MyTv"
       },
       {
         "name": "TAYANGAN HEBAT 1",
