@@ -150,13 +150,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-         "name": "COLORS INFINITY HD",
-         "logo_uri": "https://www.sundirect.in/Content/Uploads/Blocks/636928235106186263_colors-infinity-hd.png",
-         "uri": "https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd",
-         "drm_scheme": "widevine",
-         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFeGdqT2ZiRzd1V21BNm1CZ2JzRnpQSWpOeDhXSG5Md2xIN1k3WkRNa0doendfeDZCdEdqQlk2emJGV0ZBUFdQakYxNHk4ZWZyZGlzanJseklaQjhHR1FyWkFxZGU0WnZqRUxQeXJPS19uTHE0bnRWZGhzc3RfWHVnSWcxaHhHWWMtSk14Q0FLTnRWeUw3bW9iM1JTVzhFQmJhY1VCVzJkTGxsNERrSk1OTDFaYkl3blRNVk16WUxETFBNc25pUHdEN1ZiTHRsZXVZYkhOUnR5ZnQ3M1BDTk56cXk2VzdMVGRKMnFUZnhRUlFYWmU1SEl6S0t0SjM0cXFmWkY5LUFYZmFDZnIybVhxUnZNQ0VJTnhFbk1zRkF3RWlLc3VMNWxhNEZPR3RVdzBhR1k1M190NzFkMXVSYjY0VHJkeFBmakV1VTk5OV9Lc3MwN00xajZfZ1RDSlU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDk1MjAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaW5maW5pdHlfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkV4Z2pPZmJHN3VXbUE2bUJnYnNGelBJak54OFdIbkx3bEg3WTdaRE1rR2h6d194NkJ0R2pCWTZ6YkZXRkFQV1BqRjE0eThlZnJkaXNqcmx6SVpCOEdHUXJaQXFkZTRadmpFTFB5ck9LX25McTRudFZkaHNzdF9YdWdJZzFoeEdZYy1KTXhDQUtOdFZ5TDdtb2IzUlNXOEVCYmFjVUJXMmRMbGw0RGtKTU5MMVpiSXduVE1WTXpZTERMUE1zbmlQd0Q3VmJMdGxldVliSE5SdHlmdDczUENOTnpxeTZXN0xUZEoycVRmeFFSUVhaZTVISXpLS3RKMzRxcWZaRjktQVhmYUNmcjJtWHFSdk1DRUlOeEVuTXNGQXdFaUtzdUw1bGE0Rk9HdFV3MGFHWTUzX3Q3MWQxdVJiNjRUcmR4UGZqRXVVOTk5X0tzczA3TTFqNl9nVENKVT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=gBhqX3aeUEQMeuW8%2fXEvI98VFf8%3d"
-      },
-      {
         "name": "Hits Movies",
         "logo_uri": "https://www.hitstv.com/assets/logo-HITSMOVIES.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
@@ -220,37 +213,37 @@
       {
         "name": "HBOHD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/1711.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/264497?MaNTV"
       },
       {
         "name": "Star MoviesHD",
         "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/1896.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/11511?MaNTV"
       },
       {
         "name": "ShowTime HD",
         "logo_uri": "https://image.flaticon.com/icons/png/512/870/870966.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/3099.m3u8.ts?MaNTV"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/3099?MaNTV"
      },
      {
         "name": "And FlixHD",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/54975.m3u8.ts?MaNTV"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/54975?MaNTV"
       },
       {
           "name": "And PriveHD",
           "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-          "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/55158.m3u8.ts?MaNTV"
+          "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/55158?MaNTV"
       },
       {
         "name": "Sony PixHD",
         "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/1933.m3u8.ts?MaNTV"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/1933?MaNTV"
       },
       {
         "name": "SYFY",
         "logo_uri": "https://1000logos.net/wp-content/uploads/2020/09/Syfy-Logo.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/3096.m3u8.ts?MaNTV"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/3096?MaNTV"
       },
       {
         "name": "Red By HBO",
@@ -260,62 +253,52 @@
       {
         "name": "MNPlusHD",
         "logo_uri": "https://www.pay2easy.com/uploads/9056-movies_now_plus_hd.png",
-        "uri": "http://MaN@tyciptv.site:8080/live/mariconigliar0/30d5055e/192961.m3u8.ts"
-      },
-      {
-        "name": "MNXHD",
-        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/55281.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/192961?MaNTV"
       },
       {
         "name": "AKSION HD",
         "logo_uri": "http://albepg.com/tvlogi/Film%20Aksion.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/30525.m3u8.ts?MaNTV"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/30618?MaNTV"
       },
       {
          "name": "STARZ ACTION",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
-         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/29464.m3u8.ts?MaNTV"
+         "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/30773?MaNTV"
       },
       {
-         "name": "X Gold HD",
+         "name": "X Gold 1 HD",
          "logo_uri": "https://i.imgur.com/pSEV21P.png",
-         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/30537.m3u8.ts?MaNTV"
+         "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/267026?MaNTV"
       },
       {
          "name": "STAR ACTION",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/59541.m3u8.ts?MaNTV"
+         "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/59541?MaNTV"
       },
       {
          "name": "STAR HITS",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
-         "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/59538.m3u8.ts?MaNTV"
+         "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/59538?MaNTV"
       },
       {
         "name": "ActionMax HD",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Action_max_logo.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/64352.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/198273?MaNTV"
       },
       {
         "name": "X Thriller HD",
          "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
-        "uri": "http://MaNckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/30410.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/12465?MaNTV"
       },
       {
         "name": "X Action HD",
          "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Action%20HD.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/30486.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/12464?MaNTV"
       },
       {
         "name": "Tring Fantasy",
          "logo_uri": "https://ewsat.com/img/TRING_FANTASY.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/30561.m3u8.ts?MaNTV"
-      },
-      {
-        "name": "ACTION HD",
-         "logo_uri": "https://www.tvshqipon.com/wp-content/uploads/2019/12/Tring-Action-Live.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/30523.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/2577?MaNTV"
       }
     ]
       }, 
@@ -325,17 +308,17 @@
       {
         "name": "And PicsHD",
         "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/1957.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/16958?MaNTV"
       },
       {
         "name": "And XplorHD",
         "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/55228.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/196116?MaNTV"
       },
       {
         "name": "Zee CinemaHD",
         "logo_uri":"https://static.epg.best/sa/ZeeCinemaEn.sa.png",
-        "uri": "https://MaN@y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8"
+        "uri": "https://MaN@y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8"
       },
       {
         "name": "AndTV",
@@ -355,13 +338,6 @@
         "name": "ZEE TV",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
-        "name": "ZING",
-        "logo_uri": "https://static.epg.best/in/Zing.in.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
@@ -394,13 +370,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-         "name": "COLORS CINEPLEX HD",
-         "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png",
-         "uri": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd",
-         "drm_scheme": "widevine",
-         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3D&signature=kDDuaRYMluIZgvBF%2BOaY3z97df0%3D"
-      },
-      {
         "name": "COLORS CINEPLEX",
 	       "logo_uri": "https://sc.dish.com/shared/images/station-logos/CLRSC.PNG",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
@@ -413,13 +382,6 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
-      },
-      {
-        "name": "COLORS HD",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
-        "uri": "https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMejNqNVRnbUdkSXk4Qkx6aDJsc09pNDNqcWVXNmN6NzcxZlppazZQbjIzWEwyU2VsOHBJU1dZeXZSeTdpWThUWnpxRWtzR1hoVWYxRkFjSGRBSEdSbU1NU3dwUVI5czNuUi1zMnV4bVRDZGktejBsWmJQWGNGRDJNMFZDSmkxcjhjRUdtRkljRGp5UnZVUFZMUWgtZUxZcjZ3THdzZ1RXdHdLRWVSOG1NS1gzN3dFblRuVGVRbEpqVUFpYU54UWZWV3lzUzNBQ2xIVklkNkQtN014RTEtTnNtcExtVS0wdk1XblBVLVlaMkxTVGs2ZUFrZUVCQUhoOGJsQjVWTzlkNUVfWGpkSjFIZ043U3VraHVTX2JBNjdTOUVIQnZmaURFamZLek53aGVkQTdfb0loZUN2QUctd2NJWGF5RWV3U3YwdXBnNFA5b1d0cFI1R2lkSlVMNkxYdXNOZDIwZXo1YzZfdUtuTUFHV1pmbTlpSlNldndmTzM4YW9XcExwR0gyZ1N5WEN1Y05qSEcxZjdWRXd2RzgwPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkx6M2o1VGdtR2RJeThCTHpoMmxzT2k0M2pxZVc2Y3o3NzFmWmlrNlBuMjNYTDJTZWw4cElTV1l5dlJ5N2lZOFRaenFFa3NHWGhVZjFGQWNIZEFIR1JtTU1Td3BRUjlzM25SLXMydXhtVENkaS16MGxaYlBYY0ZEMk0wVkNKaTFyOGNFR21GSWNEanlSdlVQVkxRaC1lTFlyNndMd3NnVFd0d0tFZVI4bU1LWDM3d0VuVG5UZVFsSmpVQWlhTnhRZlZXeXNTM0FDbEhWSWQ2RC03TXhFMS1Oc21wTG1VLTB2TVduUFUtWVoyTFNUazZlQWtlRUJBSGg4YmxCNVZPOWQ1RV9YamRKMUhnTjdTdWtodVNfYkE2N1M5RUhCdmZpREVqZkt6TndoZWRBN19vSWhlQ3ZBRy13Y0lYYXlFZXdTdjB1cGc0UDlvV3RwUjVHaWRKVUw2TFh1c05kMjBlejVjNl91S25NQUdXWmZtOWlKU2V2d2ZPMzhhb1dwTHBHSDJnU3lYQ3VjTmpIRzFmN1ZFd3ZHODA9IiwidWRpZCI6IkhyVElZU1JvTUVXd1JTYWZuN05JT1lzeW41czIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=X6dMe6m%2f2rzh7AYSDlBGNp%2fp%2f3o%3d"
       },
       {
         "name": "COLORS",
@@ -449,13 +411,6 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
       },
-      {
-        "name": "Zing",
-        "logo_uri": "https://static.epg.best/in/Zing.in.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
       {        
 		"name": "MTV HD",
 		"logo_uri": "https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png",
@@ -466,7 +421,7 @@
       {
         "name": "BOLLYONE HD",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Astro_ABO_BollyOne.png",
-        "uri": "http://MaN@ckte2.coolmyvip.club:8880/live/ff3conn100/kf87a3mf7/71037.m3u8.ts?MaNTV"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157470?MaNTV"
       }
     ]
   }
