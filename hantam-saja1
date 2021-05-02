@@ -94,12 +94,12 @@
       {
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
-        "uri": "http://23.237.61.18:61980/myplay/c_58011/index.m3u8?key=dXR4MdR_wOP4qM4bhpqymw?MyTv"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/71117?MyTv"
       },
       {
         "name": "ASTRO NAURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/299_144.png",
-        "uri":  "http://23.237.61.18:61980/myplay/c_58042/index.m3u8?key=dXR4MdR_wOP4qM4bhpqymw?MyTv"
+        "uri":  "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157490?MyTv"
       },
       {
           "name": "ASTRO CERIA 1",
@@ -129,7 +129,7 @@
       {
         "name": "ASTRO WARNA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
-        "uri": "  ?MyTv"
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157492?MyTv"
       },
       {
         "name": "ASTRO RIA 1",
@@ -139,7 +139,7 @@
       {
         "name": "ASTRO RIA 2",
          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
-        "uri": "  "
+        "uri": "http://MaN@pascaltv.site:8080/15863/6e32b7fe/158347?MyTV"
       },
       {
         "name": "ASTRO CITRA 1",
@@ -149,12 +149,12 @@
       {
         "name": "ASTRO CITRA 2",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
-        "uri": "  ?MyTv"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/71146?MyTv"
       },
       {
         "name": "ASTRO PRIMA 1",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
-        "uri": " ?MyTv"
+        "uri": "http://meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/71020?MyTv"
       },
       {
         "name": "ASTRO PRIMA 2",
@@ -164,7 +164,7 @@
       {
         "name": "ASTRO HELLO",
         "logo_uri": "https://cdn3.iconfinder.com/data/icons/message-1-glyph-1/64/Chat_greeting_hello_message-512.png",
-        "uri":  "  ?MyTv"
+        "uri":  "http://MaN@pascaltv.site:8080/15863/6e32b7fe/157543?MyTv"
       },
       {
         "name": "ASTRO BOO HD",
@@ -174,22 +174,12 @@
       {
         "name": "ASTRO RANIA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
-        "uri": "  ?MyTv"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/71144?MyTv"
       },
       {
         "name": "ASTRO AURA",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
-        "uri": "  ?MyTv"
-      },
-      {
-        "name": "TAYANGAN HEBAT 1",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png",
-        "uri": "http://skylogic.site:8080/live/11892/4eae5165/247407.ts"
-      },
-      {
-        "name": "TAYANGAN HEBAT 2",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/7/76/Astro_Box_Office_Movies.png",
-        "uri": "http://iptvtree.net:8080/test-5c0b86/ae78/247407?play_token=6arfLE2EmA"
+        "uri": "http://MaN@meu02.cularu.com:8880/SLD12M2N31167/DG8UJfuwhR/71145?MyTv"
       }
     ]
       },
@@ -217,6 +207,11 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&"
       },
+      {
+        "name": "SURIA(backup)",
+        "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/7/78/Suria.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Suria/playlist.m3u8?MyTv"
+      }
       {
          "name": "SURIA",
          "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/7/78/Suria.png",
@@ -370,32 +365,32 @@
     {
         "name": "HBO HD",
         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
-         "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71057?MyTv"
+         "uri": "  ?MyTv"
     },
     {
         "name": "HBO 2",
        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png",
-       "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/3113.m3u8.ts?MyTv"
+       "uri": "  ?MyTv"
     },
     {
         "name": "HBO 3",
          "logo_uri": "https://ewsat.com/img/HBO3.png",
-         "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/30741.m3u8.ts?MyTv"
+         "uri": "  ?MyTv"
     },
     {
          "name": "HBO ZONE (US)",
           "logo_uri": "https://logodix.com/logo/1111252.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/3120?MyTv"
+          "uri": "  ?MyTv"
     },
     {
           "name": "Epix Hits",
           "logo_uri": "https://sc.dish.com/shared/images/station-logos/EPIXH.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59225?MyTv"
+          "uri": "  ?MyTv"
     },
     {
          "name": "STARZ ACTION(US)",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Starz_Encore_Action.svg/1280px-Starz_Encore_Action.svg.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/29464?MyTv"
+          "uri": "  ?MyTv"
     },
     {
         "name": "FOX Movies",
@@ -421,37 +416,32 @@
       {
           "name": "&PRIVE HD",
           "logo_uri": "https://static.epg.best/in/AndPrive.in.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/55158?MyTv"
+          "uri": "  ?MyTv"
      },
      {
            "name": "&FLIX HD",
            "logo_uri": "https://upload.wikimedia.org/wikipedia/en/1/12/%26flix_logo.png",
-           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/54975?MyTv"
+           "uri": "  ?MyTv"
      },
      {
           "name": "STAR HITS",
           "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Star_Hits_2020.svg/1024px-Star_Hits_2020.svg.png",
-          "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59538?MyTv"
+          "uri": "  ?MyTv"
       },
       {
             "name": "STAR ACTION",
             "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png",
-            "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/59541?MyTv"
+            "uri": "  ?MyTv"
        },
        {
            "name": "STAR MOVIES HD",
            "logo_uri": "https://i.dlpng.com/static/png/422751_preview.png",
-           "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1896?MyTv"
+           "uri": "  ?MyTv"
        },
        {
            "name": "SONY PIX HD",
            "logo_uri": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-           "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/1933.m3u8.ts?MyTv"
-        },
-        {
-            "name": "MNX HD",
-            "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/55281.m3u8.ts?MyTv"
+           "uri": "  ?MyTv"
         },
         {
             "name": "MNPLUS HD",
@@ -461,22 +451,22 @@
        {
          "name": "TRING FANTASY",
          "logo_uri": "http://www.albepg.com/tvlogi/Tring%20Fantasy.png",
-         "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/30561.m3u8.ts?MyTy"
+         "uri": "  ?MyTy"
       },
       {
           "name": "AKSION HD",
           "logo_uri": "http://albepg.com/tvlogi/Film%20Aksion.png",
-          "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/30486.m3u8.ts?MyTy"
+          "uri": "  ?MyTy"
      },
      {
           "name": "X TRILLER HD",
 	  "logo_uri": "http://www.albepg.com/tvlogi/Film%20Thriller.png",
-          "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/30489.m3u8.ts?MyTv"
+          "uri": "  ?MyTv"
      },
      {
          "name": "X ACTION HD",
           "logo_uri": "http://www.albepg.com/tvlogi/Kino%20Action%20HD.png",
-         "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/30486.m3u8.ts?MyTv"
+         "uri": "  ?MyTv"
        }
      ]
        },
@@ -622,14 +612,7 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh"
-      },
-      {
-           "name": "COLORS INFINITY HD",
-           "logo_uri": "https://www.sundirect.in/Content/Uploads/Blocks/636928235106186263_colors-infinity-hd.png",
-           "uri": "https://livevoot-i.akamaihd.net/dash/live/876252/colorsinfinity/master.mpd",
-           "drm_scheme": "widevine",
-           "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZFeGdqT2ZiRzd1V21BNm1CZ2JzRnpQSWpOeDhXSG5Md2xIN1k3WkRNa0doendfeDZCdEdqQlk2emJGV0ZBUFdQakYxNHk4ZWZyZGlzanJseklaQjhHR1FyWkFxZGU0WnZqRUxQeXJPS19uTHE0bnRWZGhzc3RfWHVnSWcxaHhHWWMtSk14Q0FLTnRWeUw3bW9iM1JTVzhFQmJhY1VCVzJkTGxsNERrSk1OTDFaYkl3blRNVk16WUxETFBNc25pUHdEN1ZiTHRsZXVZYkhOUnR5ZnQ3M1BDTk56cXk2VzdMVGRKMnFUZnhRUlFYWmU1SEl6S0t0SjM0cXFmWkY5LUFYZmFDZnIybVhxUnZNQ0VJTnhFbk1zRkF3RWlLc3VMNWxhNEZPR3RVdzBhR1k1M190NzFkMXVSYjY0VHJkeFBmakV1VTk5OV9Lc3MwN00xajZfZ1RDSlU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA3NDk1MjAiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaW5maW5pdHlfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkV4Z2pPZmJHN3VXbUE2bUJnYnNGelBJak54OFdIbkx3bEg3WTdaRE1rR2h6d194NkJ0R2pCWTZ6YkZXRkFQV1BqRjE0eThlZnJkaXNqcmx6SVpCOEdHUXJaQXFkZTRadmpFTFB5ck9LX25McTRudFZkaHNzdF9YdWdJZzFoeEdZYy1KTXhDQUtOdFZ5TDdtb2IzUlNXOEVCYmFjVUJXMmRMbGw0RGtKTU5MMVpiSXduVE1WTXpZTERMUE1zbmlQd0Q3VmJMdGxldVliSE5SdHlmdDczUENOTnpxeTZXN0xUZEoycVRmeFFSUVhaZTVISXpLS3RKMzRxcWZaRjktQVhmYUNmcjJtWHFSdk1DRUlOeEVuTXNGQXdFaUtzdUw1bGE0Rk9HdFV3MGFHWTUzX3Q3MWQxdVJiNjRUcmR4UGZqRXVVOTk5X0tzczA3TTFqNl9nVENKVT0iLCJ1ZGlkIjoiSHJUSVlTUm9NRVd3UlNhZm43TklPWXN5bjVzMiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MjI1fQ%3d%3d&signature=gBhqX3aeUEQMeuW8%2fXEvI98VFf8%3d"
-      }  
+      }
     ]
       },
       {
@@ -714,13 +697,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
       },
       {
-         "name": "COLORS CINEPLEX HD",
-         "logo_uri": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/PORTRAIT/hLnucnRV.png",
-         "uri": "https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd",
-         "drm_scheme": "widevine",
-         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09JmNvbnRleHRUeXBlPW5vbmUmaWQ9ODg0MjM4MiIsImFjY291bnRfaWQiOjE5ODI1NTEsImNvbnRlbnRfaWQiOiJjaW5lcGxleGhkX2Rhc2giLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TWpJMWZMWUZDdmhEeC1LeU8yTEpURkVabUI2RHcxdGtrMy13WE1IQ25BMk5udXUzTndPdnNlQm9VbGNPLUV1Ymt6Rkp2M0dnZlNoVmlaRzF6VFhLOHNfNEE4ZG1QZDBkOFc4bVcxLUZoVm9LazFmRDVlcGo4RExqOWFjYUVVcGFDTk5fSGsybVVTMFNEUXU0U3prRWgzOHhJRFh6RDV0ODE2bXBadlp6T1Y3ZzU4bFdMYjhiRkNkQXhNUzlzd2dOMUp5Z1VWVTQ4MjVfekdxWHY3cWdLZWJlSWR3b0FMN01qUkRuSVlnQ05HbEZoOEU4S0pwQUhoZkJWamhHUTdBTXNkcjVZQT09IiwidWRpZCI6IjhmY2JjNzQ0OTFkODdiOTEiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3D&signature=kDDuaRYMluIZgvBF%2BOaY3z97df0%3D"
-      },
-      {
          "name": "COLORS CINEPLEX",
 		"logo_uri": "https://sc.dish.com/shared/images/station-logos/CLRSC.PNG",
          "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
@@ -733,13 +709,6 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=MWNjNTYzNTEtNjczYi0zY2I5LWI2ZTYtYTFkYTlkNzgyNTEx"
-      },
-      {
-         "name": "COLORS HD",
-         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png",
-         "uri": "https://livevoot-i.akamaihd.net/dash/live/828520/colorshd/master.mpd",
-         "drm_scheme": "widevine",
-         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TWpJMWZMejNqNVRnbUdkSXk4Qkx6aDJsc09pNDNqcWVXNmN6NzcxZlppazZQbjIzWEwyU2VsOHBJU1dZeXZSeTdpWThUWnpxRWtzR1hoVWYxRkFjSGRBSEdSbU1NU3dwUVI5czNuUi1zMnV4bVRDZGktejBsWmJQWGNGRDJNMFZDSmkxcjhjRUdtRkljRGp5UnZVUFZMUWgtZUxZcjZ3THdzZ1RXdHdLRWVSOG1NS1gzN3dFblRuVGVRbEpqVUFpYU54UWZWV3lzUzNBQ2xIVklkNkQtN014RTEtTnNtcExtVS0wdk1XblBVLVlaMkxTVGs2ZUFrZUVCQUhoOGJsQjVWTzlkNUVfWGpkSjFIZ043U3VraHVTX2JBNjdTOUVIQnZmaURFamZLek53aGVkQTdfb0loZUN2QUctd2NJWGF5RWV3U3YwdXBnNFA5b1d0cFI1R2lkSlVMNkxYdXNOZDIwZXo1YzZfdUtuTUFHV1pmbTlpSlNldndmTzM4YW9XcExwR0gyZ1N5WEN1Y05qSEcxZjdWRXd2RzgwPSZjb250ZXh0VHlwZT1ub25lJmlkPTg4NDIzNzIiLCJhY2NvdW50X2lkIjoxOTgyNTUxLCJjb250ZW50X2lkIjoiY29sb3JzaGRfZGFzaCIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNakkxZkx6M2o1VGdtR2RJeThCTHpoMmxzT2k0M2pxZVc2Y3o3NzFmWmlrNlBuMjNYTDJTZWw4cElTV1l5dlJ5N2lZOFRaenFFa3NHWGhVZjFGQWNIZEFIR1JtTU1Td3BRUjlzM25SLXMydXhtVENkaS16MGxaYlBYY0ZEMk0wVkNKaTFyOGNFR21GSWNEanlSdlVQVkxRaC1lTFlyNndMd3NnVFd0d0tFZVI4bU1LWDM3d0VuVG5UZVFsSmpVQWlhTnhRZlZXeXNTM0FDbEhWSWQ2RC03TXhFMS1Oc21wTG1VLTB2TVduUFUtWVoyTFNUazZlQWtlRUJBSGg4YmxCNVZPOWQ1RV9YamRKMUhnTjdTdWtodVNfYkE2N1M5RUhCdmZpREVqZkt6TndoZWRBN19vSWhlQ3ZBRy13Y0lYYXlFZXdTdjB1cGc0UDlvV3RwUjVHaWRKVUw2TFh1c05kMjBlejVjNl91S25NQUdXWmZtOWlKU2V2d2ZPMzhhb1dwTHBHSDJnU3lYQ3VjTmpIRzFmN1ZFd3ZHODA9IiwidWRpZCI6IkhyVElZU1JvTUVXd1JTYWZuN05JT1lzeW41czIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjIyNX0%3d&signature=X6dMe6m%2f2rzh7AYSDlBGNp%2fp%2f3o%3d"
       },
       {
           "name": "COLORS",
@@ -779,27 +748,27 @@
         {
             "name": "&PICS HD",
             "logo_uri": "https://static.epg.best/in/AndPictures.in.png",
-            "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1957?MyTv"
+            "uri": "  ?MyTv"
          },
          {
               "name": "&XPLOR HD",
               "logo_uri": "https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png",
-             "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/55228?MyTv"
+             "uri": "  ?MyTv"
         },
         {
               "name": "SONY MAX HD",
              "logo_uri": "https://i.imgur.com/YHa03Rq.png",
-             "uri": "http://MaN@152.89.62.105:8880/live/Steve12m2n001/N24dRZxzdB/1910.m3u8.ts?MyTv"
+             "uri": "  ?MyTv"
         },
         {
             "name": "BOLLYONE HD",
             "logo_uri": "https://varnam.my/wp-content/uploads/2019/12/BollyOne-HD_Logo_Eng.png",
-            "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71037?MyTv"
+            "uri": "  ?MyTv"
         },
         {
             "name": "B4u Kadak",
             "logo_uri": "https://indeltv.in/wp-content/uploads/2019/11/Channel_B4ukadak.png",
-            "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/55229?MyTv"
+            "uri": "  ?MyTv"
         }
      ]
        },
@@ -914,17 +883,17 @@
       {
          "name": "AEC",
          "logo_uri": "https://static.wikia.nocookie.net/logopedia/images/5/54/Astro_AEC.png",
-         "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1723?MyTv"
+         "uri": "  ?MyTv"
       },
       {
          "name": "AOD",
          "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/1/12/Astro_AOD_%28s17%29.png",
-         "uri": "http://152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/1724?MyTv"
+         "uri": "  ?MyTv"
       },
       {
          "name": "iQIYI HD",
          "logo_uri": "https://logodix.com/logo/74403.png",
-         "uri": "http://152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71038?MyTv"
+         "uri": "  ?MyTv"
       },
       {
           "name": "RED BY HBO",
@@ -1028,7 +997,7 @@
       {
                "name": "DISCOVERY ASIA",
               "logo_uri": "https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg",
-              "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/71072?MyTv"
+              "uri": "  ?MyTv"
         },
         {
             "name": "DISCOVERY CHANNEL",
@@ -1052,12 +1021,12 @@
         {
               "name": "DOCUBOX HD",
               "logo_uri": "https://i.imgur.com/rnQMXRm.jpg",
-              "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/49232?MyTv"
+              "uri": "  ?MyTv"
         },
         {
               "name": "OUTDOOR",
               "logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_NQzkcFezQ43TjlpI-V91ywrmRV_-5oq7CZRwYzxukHSyRTES",
-              "uri": "http://MaN@152.89.62.105:8880/Steve12m2n001/N24dRZxzdB/52202?MyTv"
+              "uri": "  ?MyTv"
          }
       ]
         },
@@ -1230,22 +1199,22 @@
         {
           "name": "ASTRO SUPERSPORTS 1",
           "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-          "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59220.m3u8.ts?MyTv"
+          "uri": "  ?MyTv"
        },
        {
             "name": "ASTRO SUPERSPORTS 2",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59219.m3u8.ts?MyTv"
+            "uri": "  ?MyTv"
         },
         {
             "name": "ASTRO SUPERSPORTS 3",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59218.m3u8.ts?MyTv"
+            "uri": "  ?MyTv"
         },
         {
             "name": "ASTRO SUPERSPORTS 4",
             "logo_uri": "https://i.postimg.cc/XqMQtSkC/sh-ZPrkk4-400x400.jpg",
-            "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/59217.m3u8.ts?MyTv"
+            "uri": "  ?MyTv"
          },
          {
             "name": "BEIN SPORTS 1",
@@ -1274,7 +1243,7 @@
          {
               "name": "ASTRO ARENA",
               "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/235_144.png",
-              "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/71102.m3u8.ts?MyTv"
+              "uri": "  ?MyTv"
          },
          {
              "name": "START SPORTS SELECT 1",
@@ -1314,17 +1283,17 @@
          {
              "name": "FISHING NETWORK",
              "logo_uri": "https://i.imgur.com/Dk3oPCs.png",
-              "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/30040.m3u8.ts?MyTv"
+              "uri": "  ?MyTv"
          },
          {
              "name": "EUROSPORTS 1",
              "logo_uri": "https://i.imgur.com/jPW4CkF.png",
-             "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/2917.m3u8.ts?MyTv"
+             "uri": "  ?MyTv"
          },
          {
              "name": "EUROSPORTS 2",
              "logo_uri": "https://i.imgur.com/syYVNay.png?1",
-              "uri": "http://MaN@ed8.oknirvana.club:8880/live/YUmrvXpj5P/rF4cqPPZGq/2916.m3u8.ts?MyTv"
+              "uri": "  ?MyTv"
           }
         ]
       }
